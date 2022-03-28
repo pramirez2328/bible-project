@@ -6,7 +6,7 @@ function App() {
   const [book, setBook] = useState("");
   const [chapter, setChapter] = useState("");
   const [verse, setVerse] = useState("");
-  const [result, setResult] = useState("");
+  const [result, setResult] = useState([]);
 
   const handleBook = (e) => setBook(e.target.value);
   const handleChapter = (e) => setChapter(e.target.value);
@@ -14,7 +14,19 @@ function App() {
 
   const handleFind = (e) => {
     e.preventDefault();
-    setResult(bible[book][chapter][verse]);
+    const verses = verse.split("-");
+    let finalVerses = [],
+      counter = Number(verses[0]);
+    let lastCounter = verses.length > 1 ? Number(verses[1]) : counter;
+
+    for (let i = counter; i <= lastCounter; i++) {
+      finalVerses.push({
+        id: counter,
+        verse: bible[book][chapter][counter],
+      });
+      counter++;
+    }
+    setResult(finalVerses);
   };
 
   return (
@@ -36,7 +48,12 @@ function App() {
 
         <input type="submit" value="Submit" />
       </form>
-      {result}
+      <h2 className="header">
+        {result.length ? `${book} ${chapter}: ${verse}` : ""}
+      </h2>
+      {result.map((r) => {
+        return <p className="verses" key={r.id}>{`${r.id}.- ${r.verse}`}</p>;
+      })}
     </div>
   );
 }
