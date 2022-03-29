@@ -14,6 +14,7 @@ function App() {
 
   const handleFind = (e) => {
     e.preventDefault();
+
     const verses = verse.split("-");
     let finalVerses = [],
       counter = Number(verses[0]);
@@ -22,13 +23,15 @@ function App() {
     for (let i = counter; i <= lastCounter; i++) {
       finalVerses.push({
         id: counter,
-        verse: bible[book][chapter][counter],
+        verse: bible[book][chapter][counter]
+          ? bible[book][chapter][counter]
+          : "no existe este versiculo!",
       });
       counter++;
     }
     setResult(finalVerses);
   };
-
+  console.log(bible[book][chapter] ? bible[book][chapter] : "hello");
   return (
     <div className="App">
       <form onSubmit={handleFind}>
