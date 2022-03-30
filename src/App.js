@@ -31,7 +31,7 @@ function App() {
     }
     setResult(finalVerses);
   };
-  console.log(bible[book][chapter] ? bible[book][chapter] : "hello");
+
   return (
     <div className="App">
       <form onSubmit={handleFind}>
