@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import bible from "./obj";
+import bible from "./bible/bible";
 
 function App() {
   const [book, setBook] = useState("");
@@ -21,13 +21,15 @@ function App() {
     let lastCounter = verses.length > 1 ? Number(verses[1]) : counter;
 
     for (let i = counter; i <= lastCounter; i++) {
-      finalVerses.push({
-        id: counter,
-        verse: bible[book][chapter][counter]
-          ? bible[book][chapter][counter]
-          : "no existe este versiculo!",
-      });
-      counter++;
+      if (bible[book][chapter]) {
+        finalVerses.push({
+          id: counter,
+          verse: bible[book][chapter][counter]
+            ? bible[book][chapter][counter]
+            : "no existe este versiculo!",
+        });
+        counter++;
+      }
     }
     setResult(finalVerses);
   };
@@ -54,9 +56,13 @@ function App() {
       <h2 className="header">
         {result.length ? `${book} ${chapter}: ${verse}` : ""}
       </h2>
-      {result.map((r) => {
-        return <p className="verses" key={r.id}>{`${r.id}.- ${r.verse}`}</p>;
-      })}
+      {result.length ? (
+        result.map((r) => {
+          return <p className="verses" key={r.id}>{`${r.id}.- ${r.verse}`}</p>;
+        })
+      ) : (
+        <p>no existe ese capitulo</p>
+      )}
     </div>
   );
 }
