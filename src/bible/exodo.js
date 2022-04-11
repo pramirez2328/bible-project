@@ -1,4 +1,4 @@
-export const exodo = {
+const exodo = {
   1: {
     1: " Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entró con su familia:\n",
     2: " Rubén, Simeón, Leví, Judá,\n",
@@ -1287,3 +1287,5 @@ export const exodo = {
     38: " Porque la nube de Jehová estaba de día sobre el tabernáculo, y el fuego estaba de noche sobre él, a vista de toda la casa de Israel, en todas sus jornadas. ",
   },
 };
+
+export default exodo;

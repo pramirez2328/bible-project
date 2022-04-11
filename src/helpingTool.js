@@ -1,667 +1,874 @@
 const book = [
+  `1 Habló Jehová a Moisés y a Aarón, diciendo:
+
+2 Hablad a los hijos de Israel y decidles: Cualquier varón, cuando tuviere flujo de semen, será inmundo.
+
+3 Y esta será su inmundicia en su flujo: sea que su cuerpo destiló a causa de su flujo, o que deje de destilar a causa de su flujo, él será inmundo.
+
+4 Toda cama en que se acostare el que tuviere flujo, será inmunda; y toda cosa sobre que se sentare, inmunda será.
+
+5 Y cualquiera que tocare su cama lavará sus vestidos; se lavará también a sí mismo con agua, y será inmundo hasta la noche.
+
+6 Y el que se sentare sobre aquello en que se hubiere sentado el que tiene flujo, lavará sus vestidos, se lavará también a sí mismo con agua, y será inmundo hasta la noche.
+
+7 Asimismo el que tocare el cuerpo del que tiene flujo, lavará sus vestidos, y a sí mismo se lavará con agua, y será inmundo hasta la noche.
+
+8 Y si el que tiene flujo escupiere sobre el limpio, éste lavará sus vestidos, y después de haberse lavado con agua, será inmundo hasta la noche.
+
+9 Y toda montura sobre que cabalgare el que tuviere flujo será inmunda.
+
+10 Cualquiera que tocare cualquiera cosa que haya estado debajo de él, será inmundo hasta la noche; y el que la llevare, lavará sus vestidos, y después de lavarse con agua, será inmundo hasta la noche.
+
+11 Y todo aquel a quien tocare el que tiene flujo, y no lavare con agua sus manos, lavará sus vestidos, y a sí mismo se lavará con agua, y será inmundo hasta la noche.
+
+12 La vasija de barro que tocare el que tiene flujo será quebrada, y toda vasija de madera será lavada con agua.
+
+13 Cuando se hubiere limpiado de su flujo el que tiene flujo, contará siete días desde su purificación, y lavará sus vestidos, y lavará su cuerpo en aguas corrientes, y será limpio.
+
+14 Y el octavo día tomará dos tórtolas o dos palominos, y vendrá delante de Jehová a la puerta del tabernáculo de reunión, y los dará al sacerdote;
+
+15 y el sacerdote hará del uno ofrenda por el pecado, y del otro holocausto; y el sacerdote le purificará de su flujo delante de Jehová.
+
+16 Cuando el hombre tuviere emisión de semen, lavará en agua todo su cuerpo, y será inmundo hasta la noche.
+
+17 Y toda vestidura, o toda piel sobre la cual cayere la emisión del semen, se lavará con agua, y será inmunda hasta la noche.
+
+18 Y cuando un hombre yaciere con una mujer y tuviere emisión de semen, ambos se lavarán con agua, y serán inmundos hasta la noche.
+
+19 Cuando la mujer tuviere flujo de sangre, y su flujo fuere en su cuerpo, siete días estará apartada; y cualquiera que la tocare será inmundo hasta la noche.
+
+20 Todo aquello sobre que ella se acostare mientras estuviere separada, será inmundo; también todo aquello sobre que se sentare será inmundo.
+
+21 Y cualquiera que tocare su cama, lavará sus vestidos, y después de lavarse con agua, será inmundo hasta la noche.
+
+22 También cualquiera que tocare cualquier mueble sobre que ella se hubiere sentado, lavará sus vestidos; se lavará luego a sí mismo con agua, y será inmundo hasta la noche.
+
+23 Y lo que estuviere sobre la cama, o sobre la silla en que ella se hubiere sentado, el que lo tocare será inmundo hasta la noche.
+
+24 Si alguno durmiere con ella, y su menstruo fuere sobre él, será inmundo por siete días; y toda cama sobre que durmiere, será inmunda.
+
+25 Y la mujer, cuando siguiere el flujo de su sangre por muchos días fuera del tiempo de su costumbre, o cuando tuviere flujo de sangre más de su costumbre, todo el tiempo de su flujo será inmunda como en los días de su costumbre.
+
+26 Toda cama en que durmiere todo el tiempo de su flujo, le será como la cama de su costumbre; y todo mueble sobre que se sentare, será inmundo, como la impureza de su costumbre.
+
+27 Cualquiera que tocare esas cosas será inmundo; y lavará sus vestidos, y a sí mismo se lavará con agua, y será inmundo hasta la noche.
+
+28 Y cuando fuere libre de su flujo, contará siete días, y después será limpia.
+
+29 Y el octavo día tomará consigo dos tórtolas o dos palominos, y los traerá al sacerdote, a la puerta del tabernáculo de reunión;
+
+30 y el sacerdote hará del uno ofrenda por el pecado, y del otro holocausto; y la purificará el sacerdote delante de Jehová del flujo de su impureza.
+
+31 Así apartaréis de sus impurezas a los hijos de Israel, a fin de que no mueran por sus impurezas por haber contaminado mi tabernáculo que está entre ellos.
+
+32 Esta es la ley para el que tiene flujo, y para el que tiene emisión de semen, viniendo a ser inmundo a causa de ello;
+
+33 y para la que padece su costumbre, y para el que tuviere flujo, sea varón o mujer, y para el hombre que durmiere con mujer inmunda. `,
+  `1 Habló Jehová a Moisés después de la muerte de los dos hijos de Aarón, cuando se acercaron delante de Jehová, y murieron.
+
+2 Y Jehová dijo a Moisés: Dí a Aarón tu hermano, que no en todo tiempo entre en el santuario detrás del velo, delante del propiciatorio que está sobre el arca, para que no muera; porque yo apareceré en la nube sobre el propiciatorio.
+
+3 Con esto entrará Aarón en el santuario: con un becerro para expiación, y un carnero para holocausto.
+
+4 Se vestirá la túnica santa de lino, y sobre su cuerpo tendrá calzoncillos de lino, y se ceñirá el cinto de lino, y con la mitra de lino se cubrirá. Son las santas vestiduras; con ellas se ha de vestir después de lavar su cuerpo con agua.
+
+5 Y de la congregación de los hijos de Israel tomará dos machos cabríos para expiación, y un carnero para holocausto.
+
+6 Y hará traer Aarón el becerro de la expiación que es suyo, y hará la reconciliación por sí y por su casa.
+
+7 Después tomará los dos machos cabríos y los presentará delante de Jehová, a la puerta del tabernáculo de reunión.
+
+8 Y echará suertes Aarón sobre los dos machos cabríos; una suerte por Jehová, y otra suerte por Azazel.
+
+9 Y hará traer Aarón el macho cabrío sobre el cual cayere la suerte por Jehová, y lo ofrecerá en expiación.
+
+10 Mas el macho cabrío sobre el cual cayere la suerte por Azazel, lo presentará vivo delante de Jehová para hacer la reconciliación sobre él, para enviarlo a Azazel al desierto.
+
+11 Y hará traer Aarón el becerro que era para expiación suya, y hará la reconciliación por sí y por su casa, y degollará en expiación el becerro que es suyo.
+
+12 Después tomará un incensario lleno de brasas de fuego del altar de delante de Jehová, y sus puños llenos del perfume aromático molido, y lo llevará detrás del velo.
+
+13 Y pondrá el perfume sobre el fuego delante de Jehová, y la nube del perfume cubrirá el propiciatorio que está sobre el testimonio, para que no muera.
+
+14 Tomará luego de la sangre del becerro, y la rociará con su dedo hacia el propiciatorio al lado oriental; hacia el propiciatorio esparcirá con su dedo siete veces de aquella sangre.
+
+15 Después degollará el macho cabrío en expiación por el pecado del pueblo, y llevará la sangre detrás del velo adentro, y hará de la sangre como hizo con la sangre del becerro, y la esparcirá sobre el propiciatorio y delante del propiciatorio.
+
+16 Así purificará el santuario, a causa de las impurezas de los hijos de Israel, de sus rebeliones y de todos sus pecados; de la misma manera hará también al tabernáculo de reunión, el cual reside entre ellos en medio de sus impurezas.
+
+17 Ningún hombre estará en el tabernáculo de reunión cuando él entre a hacer la expiación en el santuario, hasta que él salga, y haya hecho la expiación por sí, por su casa y por toda la congregación de Israel.
+
+18 Y saldrá al altar que está delante de Jehová, y lo expiará, y tomará de la sangre del becerro y de la sangre del macho cabrío, y la pondrá sobre los cuernos del altar alrededor.
+
+19 Y esparcirá sobre él de la sangre con su dedo siete veces, y lo limpiará, y lo santificará de las inmundicias de los hijos de Israel.
+
+20 Cuando hubiere acabado de expiar el santuario y el tabernáculo de reunión y el altar, hará traer el macho cabrío vivo;
+
+21 y pondrá Aarón sus dos manos sobre la cabeza del macho cabrío vivo, y confesará sobre él todas las iniquidades de los hijos de Israel, todas sus rebeliones y todos sus pecados, poniéndolos así sobre la cabeza del macho cabrío, y lo enviará al desierto por mano de un hombre destinado para esto.
+
+22 Y aquel macho cabrío llevará sobre sí todas las iniquidades de ellos a tierra inhabitada; y dejará ir el macho cabrío por el desierto.
+
+23 Después vendrá Aarón al tabernáculo de reunión, y se quitará las vestiduras de lino que había vestido para entrar en el santuario, y las pondrá allí.
+
+24 Lavará luego su cuerpo con agua en el lugar del santuario, y después de ponerse sus vestidos saldrá, y hará su holocausto, y el holocausto del pueblo, y hará la expiación por sí y por el pueblo.
+
+25 Y quemará en el altar la grosura del sacrificio por el pecado.
+
+26 El que hubiere llevado el macho cabrío a Azazel, lavará sus vestidos, lavará también con agua su cuerpo, y después entrará en el campamento.
+
+27 Y sacarán fuera del campamento el becerro y el macho cabrío inmolados por el pecado, cuya sangre fue llevada al santuario para hacer la expiación; y quemarán en el fuego su piel, su carne y su estiércol.
+
+28 El que los quemare lavará sus vestidos, lavará también su cuerpo con agua, y después podrá entrar en el campamento.
+
+29 Y esto tendréis por estatuto perpetuo: En el mes séptimo, a los diez días del mes, afligiréis vuestras almas, y ninguna obra haréis, ni el natural ni el extranjero que mora entre vosotros.
+
+30 Porque en este día se hará expiación por vosotros, y seréis limpios de todos vuestros pecados delante de Jehová.
+
+31 Día de reposo es para vosotros, y afligiréis vuestras almas; es estatuto perpetuo.
+
+32 Hará la expiación el sacerdote que fuere ungido y consagrado para ser sacerdote en lugar de su padre; y se vestirá las vestiduras de lino, las vestiduras sagradas.
+
+33 Y hará la expiación por el santuario santo, y el tabernáculo de reunión; también hará expiación por el altar, por los sacerdotes y por todo el pueblo de la congregación.
+
+34 Y esto tendréis como estatuto perpetuo, para hacer expiación una vez al año por todos los pecados de Israel. Y Moisés lo hizo como Jehová le mandó. `,
   `1 Habló Jehová a Moisés, diciendo:
 
-2 Mira, yo he llamado por nombre a Bezaleel hijo de Uri, hijo de Hur, de la tribu de Judá;
+2 Habla a Aarón y a sus hijos, y a todos los hijos de Israel, y diles: Esto es lo que ha mandado Jehová:
 
-3 y lo he llenado del Espíritu de Dios, en sabiduría y en inteligencia, en ciencia y en todo arte,
+3 Cualquier varón de la casa de Israel que degollare buey o cordero o cabra, en el campamento o fuera de él,
 
-4 para inventar diseños, para trabajar en oro, en plata y en bronce,
+4 y no lo trajere a la puerta del tabernáculo de reunión para ofrecer ofrenda a Jehová delante del tabernáculo de Jehová, será culpado de sangre el tal varón; sangre derramó; será cortado el tal varón de entre su pueblo,
 
-5 y en artificio de piedras para engastarlas, y en artificio de madera; para trabajar en toda clase de labor.
+5 a fin de que traigan los hijos de Israel sus sacrificios, los que sacrifican en medio del campo, para que los traigan a Jehová a la puerta del tabernáculo de reunión al sacerdote, y sacrifiquen ellos sacrificios de paz a Jehová.
 
-6 Y he aquí que yo he puesto con él a Aholiab hijo de Ahisamac, de la tribu de Dan; y he puesto sabiduría en el ánimo de todo sabio de corazón, para que hagan todo lo que te he mandado;
+6 Y el sacerdote esparcirá la sangre sobre el altar de Jehová a la puerta del tabernáculo de reunión, y quemará la grosura en olor grato a Jehová.
 
-7 el tabernáculo de reunión, el arca del testimonio, el propiciatorio que está sobre ella, y todos los utensilios del tabernáculo,
+7 Y nunca más sacrificarán sus sacrificios a los demonios, tras de los cuales han fornicado; tendrán esto por estatuto perpetuo por sus edades.
 
-8 la mesa y sus utensilios, el candelero limpio y todos sus utensilios, el altar del incienso,
+8 Les dirás también: Cualquier varón de la casa de Israel, o de los extranjeros que moran entre vosotros, que ofreciere holocausto o sacrificio,
 
-9 el altar del holocausto y todos sus utensilios, la fuente y su base,
+9 y no lo trajere a la puerta del tabernáculo de reunión para hacerlo a Jehová, el tal varón será igualmente cortado de su pueblo.
 
-10 los vestidos del servicio, las vestiduras santas para Aarón el sacerdote, las vestiduras de sus hijos para que ejerzan el sacerdocio,
+Prohibición de comer la sangre
+10 Si cualquier varón de la casa de Israel, o de los extranjeros que moran entre ellos, comiere alguna sangre, yo pondré mi rostro contra la persona que comiere sangre, y la cortaré de entre su pueblo.
 
-11 el aceite de la unción, y el incienso aromático para el santuario; harán conforme a todo lo que te he mandado.
+11 Porque la vida de la carne en la sangre está, y yo os la he dado para hacer expiación sobre el altar por vuestras almas; y la misma sangre hará expiación de la persona.
 
-El día de reposo como señal
-12 Habló además Jehová a Moisés, diciendo:
+12 Por tanto, he dicho a los hijos de Israel: Ninguna persona de vosotros comerá sangre, ni el extranjero que mora entre vosotros comerá sangre.
 
-13 Tú hablarás a los hijos de Israel, diciendo: En verdad vosotros guardaréis mis días de reposo; porque es señal entre mí y vosotros por vuestras generaciones, para que sepáis que yo soy Jehová que os santifico.
+13 Y cualquier varón de los hijos de Israel, o de los extranjeros que moran entre ellos, que cazare animal o ave que sea de comer, derramará su sangre y la cubrirá con tierra.
 
-14 Así que guardaréis el día de reposo, porque santo es a vosotros; el que lo profanare, de cierto morirá; porque cualquiera que hiciere obra alguna en él, aquella persona será cortada de en medio de su pueblo.
+14 Porque la vida de toda carne es su sangre; por tanto, he dicho a los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre; cualquiera que la comiere será cortado.
 
-15 Seis días se trabajará, mas el día séptimo es día de reposo consagrado a Jehová; cualquiera que trabaje en el día de reposo, ciertamente morirá.
+15 Y cualquier persona, así de los naturales como de los extranjeros, que comiere animal mortecino o despedazado por fiera, lavará sus vestidos y a sí misma se lavará con agua, y será inmunda hasta la noche; entonces será limpia.
 
-16 Guardarán, pues, el día de reposo los hijos de Israel, celebrándolo por sus generaciones por pacto perpetuo.
+16 Y si no los lavare, ni lavare su cuerpo, llevará su iniquidad. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-17 Señal es para siempre entre mí y los hijos de Israel; porque en seis días hizo Jehová los cielos y la tierra, y en el séptimo día cesó y reposó.
+2 Habla a los hijos de Israel, y diles: Yo soy Jehová vuestro Dios.
 
-El becerro de oro
-18 Y dio a Moisés, cuando acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Dios. `,
-  `1 Viendo el pueblo que Moisés tardaba en descender del monte, se acercaron entonces a Aarón, y le dijeron: Levántate, haznos dioses que vayan delante de nosotros; porque a este Moisés, el varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido.
+3 No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, a la cual yo os conduzco, ni andaréis en sus estatutos.
 
-2 Y Aarón les dijo: Apartad los zarcillos de oro que están en las orejas de vuestras mujeres, de vuestros hijos y de vuestras hijas, y traédmelos.
+4 Mis ordenanzas pondréis por obra, y mis estatutos guardaréis, andando en ellos. Yo Jehová vuestro Dios.
 
-3 Entonces todo el pueblo apartó los zarcillos de oro que tenían en sus orejas, y los trajeron a Aarón;
+5 Por tanto, guardaréis mis estatutos y mis ordenanzas, los cuales haciendo el hombre, vivirá en ellos. Yo Jehová.
 
-4 y él los tomó de las manos de ellos, y le dio forma con buril, e hizo de ello un becerro de fundición. Entonces dijeron: Israel, estos son tus dioses, que te sacaron de la tierra de Egipto.
+6 Ningún varón se llegue a parienta próxima alguna, para descubrir su desnudez. Yo Jehová.
 
-5 Y viendo esto Aarón, edificó un altar delante del becerro; y pregonó Aarón, y dijo: Mañana será fiesta para Jehová.
+7 La desnudez de tu padre, o la desnudez de tu madre, no descubrirás; tu madre es, no descubrirás su desnudez.
 
-6 Y al día siguiente madrugaron, y ofrecieron holocaustos, y presentaron ofrendas de paz; y se sentó el pueblo a comer y a beber, y se levantó a regocijarse.
+8 La desnudez de la mujer de tu padre no descubrirás; es la desnudez de tu padre.
 
-7 Entonces Jehová dijo a Moisés: Anda, desciende, porque tu pueblo que sacaste de la tierra de Egipto se ha corrompido.
+9 La desnudez de tu hermana, hija de tu padre o hija de tu madre, nacida en casa o nacida fuera, su desnudez no descubrirás.
 
-8 Pronto se han apartado del camino que yo les mandé; se han hecho un becerro de fundición, y lo han adorado, y le han ofrecido sacrificios, y han dicho: Israel, estos son tus dioses, que te sacaron de la tierra de Egipto.
+10 La desnudez de la hija de tu hijo, o de la hija de tu hija, su desnudez no descubrirás, porque es la desnudez tuya.
 
-9 Dijo más Jehová a Moisés: Yo he visto a este pueblo, que por cierto es pueblo de dura cerviz.
+11 La desnudez de la hija de la mujer de tu padre, engendrada de tu padre, tu hermana es; su desnudez no descubrirás.
 
-10 Ahora, pues, déjame que se encienda mi ira en ellos, y los consuma; y de ti yo haré una nación grande.
+12 La desnudez de la hermana de tu padre no descubrirás; es parienta de tu padre.
 
-11 Entonces Moisés oró en presencia de Jehová su Dios, y dijo: Oh Jehová, ¿por qué se encenderá tu furor contra tu pueblo, que tú sacaste de la tierra de Egipto con gran poder y con mano fuerte?
+13 La desnudez de la hermana de tu madre no descubrirás, porque parienta de tu madre es.
 
-12 ¿Por qué han de hablar los egipcios, diciendo: Para mal los sacó, para matarlos en los montes, y para raerlos de sobre la faz de la tierra? Vuélvete del ardor de tu ira, y arrepiéntete de este mal contra tu pueblo.
+14 La desnudez del hermano de tu padre no descubrirás; no llegarás a su mujer; es mujer del hermano de tu padre.
 
-13 Acuérdate de Abraham, de Isaac y de Israel tus siervos, a los cuales has jurado por ti mismo, y les has dicho: Yo multiplicaré vuestra descendencia como las estrellas del cielo; y daré a vuestra descendencia toda esta tierra de que he hablado, y la tomarán por heredad para siempre.
+15 La desnudez de tu nuera no descubrirás; mujer es de tu hijo, no descubrirás su desnudez.
 
-14 Entonces Jehová se arrepintió del mal que dijo que había de hacer a su pueblo.
+16 La desnudez de la mujer de tu hermano no descubrirás; es la desnudez de tu hermano.
 
-15 Y volvió Moisés y descendió del monte, trayendo en su mano las dos tablas del testimonio, las tablas escritas por ambos lados; de uno y otro lado estaban escritas.
+17 La desnudez de la mujer y de su hija no descubrirás; no tomarás la hija de su hijo, ni la hija de su hija, para descubrir su desnudez; son parientas, es maldad.
 
-16 Y las tablas eran obra de Dios, y la escritura era escritura de Dios grabada sobre las tablas.
+18 No tomarás mujer juntamente con su hermana, para hacerla su rival, descubriendo su desnudez delante de ella en su vida.
 
-17 Cuando oyó Josué el clamor del pueblo que gritaba, dijo a Moisés: Alarido de pelea hay en el campamento.
+19 Y no llegarás a la mujer para descubrir su desnudez mientras esté en su impureza menstrual.
 
-18 Y él respondió: No es voz de alaridos de fuertes, ni voz de alaridos de débiles; voz de cantar oigo yo.
+20 Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote con ella.
 
-19 Y aconteció que cuando él llegó al campamento, y vio el becerro y las danzas, ardió la ira de Moisés, y arrojó las tablas de sus manos, y las quebró al pie del monte.
+21 Y no des hijo tuyo para ofrecerlo por fuego a Moloc; no contamines así el nombre de tu Dios. Yo Jehová.
 
-20 Y tomó el becerro que habían hecho, y lo quemó en el fuego, y lo molió hasta reducirlo a polvo, que esparció sobre las aguas, y lo dio a beber a los hijos de Israel.
+22 No te echarás con varón como con mujer; es abominación.
 
-21 Y dijo Moisés a Aarón: ¿Qué te ha hecho este pueblo, que has traído sobre él tan gran pecado?
+23 Ni con ningún animal tendrás ayuntamiento amancillándote con él, ni mujer alguna se pondrá delante de animal para ayuntarse con él; es perversión.
 
-22 Y respondió Aarón: No se enoje mi señor; tú conoces al pueblo, que es inclinado a mal.
+24 En ninguna de estas cosas os amancillaréis; pues en todas estas cosas se han corrompido las naciones que yo echo de delante de vosotros,
 
-23 Porque me dijeron: Haznos dioses que vayan delante de nosotros; porque a este Moisés, el varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido.
+25 y la tierra fue contaminada; y yo visité su maldad sobre ella, y la tierra vomitó sus moradores.
 
-24 Y yo les respondí: ¿Quién tiene oro? Apartadlo. Y me lo dieron, y lo eché en el fuego, y salió este becerro.
+26 Guardad, pues, vosotros mis estatutos y mis ordenanzas, y no hagáis ninguna de estas abominaciones, ni el natural ni el extranjero que mora entre vosotros
 
-25 Y viendo Moisés que el pueblo estaba desenfrenado, porque Aarón lo había permitido, para vergüenza entre sus enemigos,
+27 (porque todas estas abominaciones hicieron los hombres de aquella tierra que fueron antes de vosotros, y la tierra fue contaminada);
 
-26 se puso Moisés a la puerta del campamento, y dijo: ¿Quién está por Jehová? Júntese conmigo. Y se juntaron con él todos los hijos de Leví.
+28 no sea que la tierra os vomite por haberla contaminado, como vomitó a la nación que la habitó antes de vosotros.
 
-27 Y él les dijo: Así ha dicho Jehová, el Dios de Israel: Poned cada uno su espada sobre su muslo; pasad y volved de puerta a puerta por el campamento, y matad cada uno a su hermano, y a su amigo, y a su pariente.
+29 Porque cualquiera que hiciere alguna de todas estas abominaciones, las personas que las hicieren serán cortadas de entre su pueblo.
 
-28 Y los hijos de Leví lo hicieron conforme al dicho de Moisés; y cayeron del pueblo en aquel día como tres mil hombres.
+30 Guardad, pues, mi ordenanza, no haciendo las costumbres abominables que practicaron antes de vosotros, y no os contaminéis en ellas. Yo Jehová vuestro Dios. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-29 Entonces Moisés dijo: Hoy os habéis consagrado a Jehová, pues cada uno se ha consagrado en su hijo y en su hermano, para que él dé bendición hoy sobre vosotros.
+2 Habla a toda la congregación de los hijos de Israel, y diles: Santos seréis, porque santo soy yo Jehová vuestro Dios.
 
-30 Y aconteció que al día siguiente dijo Moisés al pueblo: Vosotros habéis cometido un gran pecado, pero yo subiré ahora a Jehová; quizá le aplacaré acerca de vuestro pecado.
+3 Cada uno temerá a su madre y a su padre, y mis días de reposo guardaréis. Yo Jehová vuestro Dios.
 
-31 Entonces volvió Moisés a Jehová, y dijo: Te ruego, pues este pueblo ha cometido un gran pecado, porque se hicieron dioses de oro,
+4 No os volveréis a los ídolos, ni haréis para vosotros dioses de fundición. Yo Jehová vuestro Dios.
 
-32 que perdones ahora su pecado, y si no, ráeme ahora de tu libro que has escrito.
+5 Y cuando ofreciereis sacrificio de ofrenda de paz a Jehová, ofrecedlo de tal manera que seáis aceptos.
 
-33 Y Jehová respondió a Moisés: Al que pecare contra mí, a éste raeré yo de mi libro.
+6 Será comido el día que lo ofreciereis, y el día siguiente; y lo que quedare para el tercer día, será quemado en el fuego.
 
-34 Vé, pues, ahora, lleva a este pueblo a donde te he dicho; he aquí mi ángel irá delante de ti; pero en el día del castigo, yo castigaré en ellos su pecado.
+7 Y si se comiere el día tercero, será abominación; no será acepto,
 
-35 Y Jehová hirió al pueblo, porque habían hecho el becerro que formó Aarón. `,
-  `1 Jehová dijo a Moisés: Anda, sube de aquí, tú y el pueblo que sacaste de la tierra de Egipto, a la tierra de la cual juré a Abraham, Isaac y Jacob, diciendo: A tu descendencia la daré;
+8 y el que lo comiere llevará su delito, por cuanto profanó lo santo de Jehová; y la tal persona será cortada de su pueblo.
 
-2 y yo enviaré delante de ti el ángel, y echaré fuera al cananeo y al amorreo, al heteo, al ferezeo, al heveo y al jebuseo
+9 Cuando siegues la mies de tu tierra, no segarás hasta el último rincón de ella, ni espigarás tu tierra segada.
 
-3 (a la tierra que fluye leche y miel); pero yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino.
+10 Y no rebuscarás tu viña, ni recogerás el fruto caído de tu viña; para el pobre y para el extranjero lo dejarás. Yo Jehová vuestro Dios.
 
-4 Y oyendo el pueblo esta mala noticia, vistieron luto, y ninguno se puso sus atavíos.
+11 No hurtaréis, y no engañaréis ni mentiréis el uno al otro.
 
-5 Porque Jehová había dicho a Moisés: Dí a los hijos de Israel: Vosotros sois pueblo de dura cerviz; en un momento subiré en medio de ti, y te consumiré. Quítate, pues, ahora tus atavíos, para que yo sepa lo que te he de hacer.
+12 Y no juraréis falsamente por mi nombre, profanando así el nombre de tu Dios. Yo Jehová.
 
-6 Entonces los hijos de Israel se despojaron de sus atavíos desde el monte Horeb.
+13 No oprimirás a tu prójimo, ni le robarás. No retendrás el salario del jornalero en tu casa hasta la mañana.
 
-7 Y Moisés tomó el tabernáculo, y lo levantó lejos, fuera del campamento, y lo llamó el Tabernáculo de Reunión. Y cualquiera que buscaba a Jehová, salía al tabernáculo de reunión que estaba fuera del campamento.
+14 No maldecirás al sordo, y delante del ciego no pondrás tropiezo, sino que tendrás temor de tu Dios. Yo Jehová.
 
-8 Y sucedía que cuando salía Moisés al tabernáculo, todo el pueblo se levantaba, y cada cual estaba en pie a la puerta de su tienda, y miraban en pos de Moisés, hasta que él entraba en el tabernáculo.
+15 No harás injusticia en el juicio, ni favoreciendo al pobre ni complaciendo al grande; con justicia juzgarás a tu prójimo.
 
-9 Cuando Moisés entraba en el tabernáculo, la columna de nube descendía y se ponía a la puerta del tabernáculo, y Jehová hablaba con Moisés.
+16 No andarás chismeando entre tu pueblo. No atentarás contra la vida de tu prójimo. Yo Jehová.
 
-10 Y viendo todo el pueblo la columna de nube que estaba a la puerta del tabernáculo, se levantaba cada uno a la puerta de su tienda y adoraba.
+17 No aborrecerás a tu hermano en tu corazón; razonarás con tu prójimo, para que no participes de su pecado.
 
-11 Y hablaba Jehová a Moisés cara a cara, como habla cualquiera a su compañero. Y él volvía al campamento; pero el joven Josué hijo de Nun, su servidor, nunca se apartaba de en medio del tabernáculo.
+18 No te vengarás, ni guardarás rencor a los hijos de tu pueblo, sino amarás a tu prójimo como a ti mismo. Yo Jehová.
 
-12 Y dijo Moisés a Jehová: Mira, tú me dices a mí: Saca este pueblo; y tú no me has declarado a quién enviarás conmigo. Sin embargo, tú dices: Yo te he conocido por tu nombre, y has hallado también gracia en mis ojos.
+19 Mis estatutos guardarás. No harás ayuntar tu ganado con animales de otra especie; tu campo no sembrarás con mezcla de semillas, y no te pondrás vestidos con mezcla de hilos.
 
-13 Ahora, pues, si he hallado gracia en tus ojos, te ruego que me muestres ahora tu camino, para que te conozca, y halle gracia en tus ojos; y mira que esta gente es pueblo tuyo.
+20 Si un hombre yaciere con una mujer que fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada libertad, ambos serán azotados; no morirán, por cuanto ella no es libre.
 
-14 Y él dijo: Mi presencia irá contigo, y te daré descanso.
+21 Y él traerá a Jehová, a la puerta del tabernáculo de reunión, un carnero en expiación por su culpa.
 
-15 Y Moisés respondió: Si tu presencia no ha de ir conmigo, no nos saques de aquí.
+22 Y con el carnero de la expiación lo reconciliará el sacerdote delante de Jehová, por su pecado que cometió; y se le perdonará su pecado que ha cometido.
 
-16 ¿Y en qué se conocerá aquí que he hallado gracia en tus ojos, yo y tu pueblo, sino en que tú andes con nosotros, y que yo y tu pueblo seamos apartados de todos los pueblos que están sobre la faz de la tierra?
+23 Y cuando entréis en la tierra, y plantéis toda clase de árboles frutales, consideraréis como incircunciso lo primero de su fruto; tres años os será incircunciso; su fruto no se comerá.
 
-17 Y Jehová dijo a Moisés: También haré esto que has dicho, por cuanto has hallado gracia en mis ojos, y te he conocido por tu nombre.
+24 Y el cuarto año todo su fruto será consagrado en alabanzas a Jehová.
 
-18 El entonces dijo: Te ruego que me muestres tu gloria.
+25 Mas al quinto año comeréis el fruto de él, para que os haga crecer su fruto. Yo Jehová vuestro Dios.
 
-19 Y le respondió: Yo haré pasar todo mi bien delante de tu rostro, y proclamaré el nombre de Jehová delante de ti; y tendré misericordia del que tendré misericordia, y seré clemente para con el que seré clemente.
+26 No comeréis cosa alguna con sangre. No seréis agoreros, ni adivinos.
 
-20 Dijo más: No podrás ver mi rostro; porque no me verá hombre, y vivirá.
+27 No haréis tonsura en vuestras cabezas, ni dañaréis la punta de vuestra barba.
 
-21 Y dijo aún Jehová: He aquí un lugar junto a mí, y tú estarás sobre la peña;
+28 Y no haréis rasguños en vuestro cuerpo por un muerto, ni imprimiréis en vosotros señal alguna. Yo Jehová.
 
-22 y cuando pase mi gloria, yo te pondré en una hendidura de la peña, y te cubriré con mi mano hasta que haya pasado.
+29 No contaminarás a tu hija haciéndola fornicar, para que no se prostituya la tierra y se llene de maldad.
 
-23 Después apartaré mi mano, y verás mis espaldas; mas no se verá mi rostro. `,
-  `1 Y Jehová dijo a Moisés: Alísate dos tablas de piedra como las primeras, y escribiré sobre esas tablas las palabras que estaban en las tablas primeras que quebraste.
+30 Mis días de reposo guardaréis, y mi santuario tendréis en reverencia. Yo Jehová.
 
-2 Prepárate, pues, para mañana, y sube de mañana al monte de Sinaí, y preséntate ante mí sobre la cumbre del monte.
+31 No os volváis a los encantadores ni a los adivinos; no los consultéis, contaminándoos con ellos. Yo Jehová vuestro Dios.
 
-3 Y no suba hombre contigo, ni parezca alguno en todo el monte; ni ovejas ni bueyes pazcan delante del monte.
+32 Delante de las canas te levantarás, y honrarás el rostro del anciano, y de tu Dios tendrás temor. Yo Jehová.
 
-4 Y Moisés alisó dos tablas de piedra como las primeras; y se levantó de mañana y subió al monte Sinaí, como le mandó Jehová, y llevó en su mano las dos tablas de piedra.
+33 Cuando el extranjero morare con vosotros en vuestra tierra, no le oprimiréis.
 
-5 Y Jehová descendió en la nube, y estuvo allí con él, proclamando el nombre de Jehová.
+34 Como a un natural de vosotros tendréis al extranjero que more entre vosotros, y lo amarás como a ti mismo; porque extranjeros fuisteis en la tierra de Egipto. Yo Jehová vuestro Dios.
 
-6 Y pasando Jehová por delante de él, proclamó: ¡Jehová! ¡Jehová! fuerte, misericordioso y piadoso; tardo para la ira, y grande en misericordia y verdad;
+35 No hagáis injusticia en juicio, en medida de tierra, en peso ni en otra medida.
 
-7 que guarda misericordia a millares, que perdona la iniquidad, la rebelión y el pecado, y que de ningún modo tendrá por inocente al malvado; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera y cuarta generación.
+36 Balanzas justas, pesas justas y medidas justas tendréis. Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto.
 
-8 Entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y adoró.
+37 Guardad, pues, todos mis estatutos y todas mis ordenanzas, y ponedlos por obra. Yo Jehová. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-9 Y dijo: Si ahora, Señor, he hallado gracia en tus ojos, vaya ahora el Señor en medio de nosotros; porque es un pueblo de dura cerviz; y perdona nuestra iniquidad y nuestro pecado, y tómanos por tu heredad.
+2 Dirás asimismo a los hijos de Israel: Cualquier varón de los hijos de Israel, o de los extranjeros que moran en Israel, que ofreciere alguno de sus hijos a Moloc, de seguro morirá; el pueblo de la tierra lo apedreará.
 
-10 Y él contestó: He aquí, yo hago pacto delante de todo tu pueblo; haré maravillas que no han sido hechas en toda la tierra, ni en nación alguna, y verá todo el pueblo en medio del cual estás tú, la obra de Jehová; porque será cosa tremenda la que yo haré contigo.
+3 Y yo pondré mi rostro contra el tal varón, y lo cortaré de entre su pueblo, por cuanto dio de sus hijos a Moloc, contaminando mi santuario y profanando mi santo nombre.
 
-Advertencia contra la idolatría de Canaán
-11 Guarda lo que yo te mando hoy; he aquí que yo echo de delante de tu presencia al amorreo, al cananeo, al heteo, al ferezeo, al heveo y al jebuseo.
+4 Si el pueblo de la tierra cerrare sus ojos respecto de aquel varón que hubiere dado de sus hijos a Moloc, para no matarle,
 
-12 Guárdate de hacer alianza con los moradores de la tierra donde has de entrar, para que no sean tropezadero en medio de ti.
+5 entonces yo pondré mi rostro contra aquel varón y contra su familia, y le cortaré de entre su pueblo, con todos los que fornicaron en pos de él prostituyéndose con Moloc.
 
-13 Derribaréis sus altares, y quebraréis sus estatuas, y cortaréis sus imágenes de Asera.
+6 Y la persona que atendiere a encantadores o adivinos, para prostituirse tras de ellos, yo pondré mi rostro contra la tal persona, y la cortaré de entre su pueblo.
 
-14 Porque no te has de inclinar a ningún otro dios, pues Jehová, cuyo nombre es Celoso, Dios celoso es.
+7 Santificaos, pues, y sed santos, porque yo Jehová soy vuestro Dios.
 
-15 Por tanto, no harás alianza con los moradores de aquella tierra; porque fornicarán en pos de sus dioses, y ofrecerán sacrificios a sus dioses, y te invitarán, y comerás de sus sacrificios;
+8 Y guardad mis estatutos, y ponedlos por obra. Yo Jehová que os santifico.
 
-16 o tomando de sus hijas para tus hijos, y fornicando sus hijas en pos de sus dioses, harán fornicar también a tus hijos en pos de los dioses de ellas.
+9 Todo hombre que maldijere a su padre o a su madre, de cierto morirá; a su padre o a su madre maldijo; su sangre será sobre él.
 
-17 No te harás dioses de fundición.
+10 Si un hombre cometiere adulterio con la mujer de su prójimo, el adúltero y la adúltera indefectiblemente serán muertos.
 
-Fiestas anuales
-18 La fiesta de los panes sin levadura guardarás; siete días comerás pan sin levadura, según te he mandado, en el tiempo señalado del mes de Abib; porque en el mes de Abib saliste de Egipto.
+11 Cualquiera que yaciere con la mujer de su padre, la desnudez de su padre descubrió; ambos han de ser muertos; su sangre será sobre ellos.
 
-19 Todo primer nacido, mío es; y de tu ganado todo primogénito de vaca o de oveja, que sea macho.
+12 Si alguno durmiere con su nuera, ambos han de morir; cometieron grave perversión; su sangre será sobre ellos.
 
-20 Pero redimirás con cordero el primogénito del asno; y si no lo redimieres, quebrarás su cerviz. Redimirás todo primogénito de tus hijos; y ninguno se presentará delante de mí con las manos vacías.
+13 Si alguno se ayuntare con varón como con mujer, abominación hicieron; ambos han de ser muertos; sobre ellos será su sangre.
 
-21 Seis días trabajarás, mas en el séptimo día descansarás; aun en la arada y en la siega, descansarás.
+14 El que tomare mujer y a la madre de ella, comete vileza; quemarán con fuego a él y a ellas, para que no haya vileza entre vosotros.
 
-22 También celebrarás la fiesta de las semanas, la de las primicias de la siega del trigo, y la fiesta de la cosecha a la salida del año.
+15 Cualquiera que tuviere cópula con bestia, ha de ser muerto, y mataréis a la bestia.
 
-23 Tres veces en el año se presentará todo varón tuyo delante de Jehová el Señor, Dios de Israel.
+16 Y si una mujer se llegare a algún animal para ayuntarse con él, a la mujer y al animal matarás; morirán indefectiblemente; su sangre será sobre ellos.
 
-24 Porque yo arrojaré a las naciones de tu presencia, y ensancharé tu territorio; y ninguno codiciará tu tierra, cuando subas para presentarte delante de Jehová tu Dios tres veces en el año.
+17 Si alguno tomare a su hermana, hija de su padre o hija de su madre, y viere su desnudez, y ella viere la suya, es cosa execrable; por tanto serán muertos a ojos de los hijos de su pueblo; descubrió la desnudez de su hermana; su pecado llevará.
 
-25 No ofrecerás cosa leudada junto con la sangre de mi sacrificio, ni se dejará hasta la mañana nada del sacrificio de la fiesta de la pascua.
+18 Cualquiera que durmiere con mujer menstruosa, y descubriere su desnudez, su fuente descubrió, y ella descubrió la fuente de su sangre; ambos serán cortados de entre su pueblo.
 
-26 Las primicias de los primeros frutos de tu tierra llevarás a la casa de Jehová tu Dios. No cocerás el cabrito en la leche de su madre.
+19 La desnudez de la hermana de tu madre, o de la hermana de tu padre, no descubrirás; porque al descubrir la desnudez de su parienta, su iniquidad llevarán.
 
-Moisés y las tablas de la ley
-27 Y Jehová dijo a Moisés: Escribe tú estas palabras; porque conforme a estas palabras he hecho pacto contigo y con Israel.
+20 Cualquiera que durmiere con la mujer del hermano de su padre, la desnudez del hermano de su padre descubrió; su pecado llevarán; morirán sin hijos.
 
-28 Y él estuvo allí con Jehová cuarenta días y cuarenta noches; no comió pan, ni bebió agua; y escribió en tablas las palabras del pacto, los diez mandamientos.
+21 Y el que tomare la mujer de su hermano, comete inmundicia; la desnudez de su hermano descubrió; sin hijos serán.
 
-29 Y aconteció que descendiendo Moisés del monte Sinaí con las dos tablas del testimonio en su mano, al descender del monte, no sabía Moisés que la piel de su rostro resplandecía, después que hubo hablado con Dios.
+22 Guardad, pues, todos mis estatutos y todas mis ordenanzas, y ponedlos por obra, no sea que os vomite la tierra en la cual yo os introduzco para que habitéis en ella.
 
-30 Y Aarón y todos los hijos de Israel miraron a Moisés, y he aquí la piel de su rostro era resplandeciente; y tuvieron miedo de acercarse a él.
+23 Y no andéis en las prácticas de las naciones que yo echaré de delante de vosotros; porque ellos hicieron todas estas cosas, y los tuve en abominación.
 
-31 Entonces Moisés los llamó; y Aarón y todos los príncipes de la congregación volvieron a él, y Moisés les habló.
+24 Pero a vosotros os he dicho: Vosotros poseeréis la tierra de ellos, y yo os la daré para que la poseáis por heredad, tierra que fluye leche y miel. Yo Jehová vuestro Dios, que os he apartado de los pueblos.
 
-32 Después se acercaron todos los hijos de Israel, a los cuales mandó todo lo que Jehová le había dicho en el monte Sinaí.
+25 Por tanto, vosotros haréis diferencia entre animal limpio e inmundo, y entre ave inmunda y limpia; y no contaminéis vuestras personas con los animales, ni con las aves, ni con nada que se arrastra sobre la tierra, los cuales os he apartado por inmundos.
 
-33 Y cuando acabó Moisés de hablar con ellos, puso un velo sobre su rostro.
+26 Habéis, pues, de serme santos, porque yo Jehová soy santo, y os he apartado de los pueblos para que seáis míos.
 
-34 Cuando venía Moisés delante de Jehová para hablar con él, se quitaba el velo hasta que salía; y saliendo, decía a los hijos de Israel lo que le era mandado.
+27 Y el hombre o la mujer que evocare espíritus de muertos o se entregare a la adivinación, ha de morir; serán apedreados; su sangre será sobre ellos. `,
+  `1 Jehová dijo a Moisés: Habla a los sacerdotes hijos de Aarón, y diles que no se contaminen por un muerto en sus pueblos.
 
-35 Y al mirar los hijos de Israel el rostro de Moisés, veían que la piel de su rostro era resplandeciente; y volvía Moisés a poner el velo sobre su rostro, hasta que entraba a hablar con Dios.`,
-  `1 Moisés convocó a toda la congregación de los hijos de Israel y les dijo: Estas son las cosas que Jehová ha mandado que sean hechas:
+2 Mas por su pariente cercano, por su madre o por su padre, o por su hijo o por su hermano,
 
-2 Seis días se trabajará, mas el día séptimo os será santo, día de reposo para Jehová; cualquiera que en él hiciere trabajo alguno, morirá.
+3 o por su hermana virgen, a él cercana, la cual no haya tenido marido, por ella se contaminará.
 
-3 No encenderéis fuego en ninguna de vuestras moradas en el día de reposo.
+4 No se contaminará como cualquier hombre de su pueblo, haciéndose inmundo.
 
-La ofrenda para el tabernáculo
-4 Y habló Moisés a toda la congregación de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado:
+5 No harán tonsura en su cabeza, ni raerán la punta de su barba, ni en su carne harán rasguños.
 
-5 Tomad de entre vosotros ofrenda para Jehová; todo generoso de corazón la traerá a Jehová; oro, plata, bronce,
+6 Santos serán a su Dios, y no profanarán el nombre de su Dios, porque las ofrendas encendidas para Jehová y el pan de su Dios ofrecen; por tanto, serán santos.
 
-6 azul, púrpura, carmesí, lino fino, pelo de cabras,
+7 Con mujer ramera o infame no se casarán, ni con mujer repudiada de su marido; porque el sacerdote es santo a su Dios.
 
-7 pieles de carneros teñidas de rojo, pieles de tejones, madera de acacia,
+8 Le santificarás, por tanto, pues el pan de tu Dios ofrece; santo será para ti, porque santo soy yo Jehová que os santifico.
 
-8 aceite para el alumbrado, especias para el aceite de la unción y para el incienso aromático,
+9 Y la hija del sacerdote, si comenzare a fornicar, a su padre deshonra; quemada será al fuego.
 
-9 y piedras de ónice y piedras de engaste para el efod y para el pectoral.
+10 Y el sumo sacerdote entre sus hermanos, sobre cuya cabeza fue derramado el aceite de la unción, y que fue consagrado para llevar las vestiduras, no descubrirá su cabeza, ni rasgará sus vestidos,
 
-La obra del tabernáculo
-10 Todo sabio de corazón de entre vosotros vendrá y hará todas las cosas que Jehová ha mandado:
+11 ni entrará donde haya alguna persona muerta; ni por su padre ni por su madre se contaminará.
 
-11 el tabernáculo, su tienda, su cubierta, sus corchetes, sus tablas, sus barras, sus columnas y sus basas;
+12 Ni saldrá del santuario, ni profanará el santuario de su Dios; porque la consagración por el aceite de la unción de su Dios está sobre él. Yo Jehová.
 
-12 el arca y sus varas, el propiciatorio, el velo de la tienda;
+13 Tomará por esposa a una mujer virgen.
 
-13 la mesa y sus varas, y todos sus utensilios, y el pan de la proposición;
+14 No tomará viuda, ni repudiada, ni infame ni ramera, sino tomará de su pueblo una virgen por mujer,
 
-14 el candelero del alumbrado y sus utensilios, sus lámparas, y el aceite para el alumbrado;
+15 para que no profane su descendencia en sus pueblos; porque yo Jehová soy el que los santifico.
 
-15 el altar del incienso y sus varas, el aceite de la unción, el incienso aromático, la cortina de la puerta para la entrada del tabernáculo;
+16 Y Jehová habló a Moisés, diciendo:
 
-16 el altar del holocausto, su enrejado de bronce y sus varas, y todos sus utensilios, y la fuente con su base;
+17 Habla a Aarón y dile: Ninguno de tus descendientes por sus generaciones, que tenga algún defecto, se acercará para ofrecer el pan de su Dios.
 
-17 las cortinas del atrio, sus columnas y sus basas, la cortina de la puerta del atrio;
+18 Porque ningún varón en el cual haya defecto se acercará; varón ciego, o cojo, o mutilado, o sobrado,
 
-18 las estacas del tabernáculo, y las estacas del atrio y sus cuerdas;
+19 o varón que tenga quebradura de pie o rotura de mano,
 
-19 las vestiduras del servicio para ministrar en el santuario, las sagradas vestiduras de Aarón el sacerdote, y las vestiduras de sus hijos para servir en el sacerdocio.
+20 o jorobado, o enano, o que tenga nube en el ojo, o que tenga sarna, o empeine, o testículo magullado.
 
-El pueblo trae la ofrenda
-20 Y salió toda la congregación de los hijos de Israel de delante de Moisés.
+21 Ningún varón de la descendencia del sacerdote Aarón, en el cual haya defecto, se acercará para ofrecer las ofrendas encendidas para Jehová. Hay defecto en él; no se acercará a ofrecer el pan de su Dios.
 
-21 Y vino todo varón a quien su corazón estimuló, y todo aquel a quien su espíritu le dio voluntad, con ofrenda a Jehová para la obra del tabernáculo de reunión y para toda su obra, y para las sagradas vestiduras.
+22 Del pan de su Dios, de lo muy santo y de las cosas santificadas, podrá comer.
 
-22 Vinieron así hombres como mujeres, todos los voluntarios de corazón, y trajeron cadenas y zarcillos, anillos y brazaletes y toda clase de joyas de oro; y todos presentaban ofrenda de oro a Jehová.
+23 Pero no se acercará tras el velo, ni se acercará al altar, por cuanto hay defecto en él; para que no profane mi santuario, porque yo Jehová soy el que los santifico.
 
-23 Todo hombre que tenía azul, púrpura, carmesí, lino fino, pelo de cabras, pieles de carneros teñidas de rojo, o pieles de tejones, lo traía.
+24 Y Moisés habló esto a Aarón, y a sus hijos, y a todos los hijos de Israel. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-24 Todo el que ofrecía ofrenda de plata o de bronce traía a Jehová la ofrenda; y todo el que tenía madera de acacia la traía para toda la obra del servicio.
+2 Dí a Aarón y a sus hijos que se abstengan de las cosas santas que los hijos de Israel me han dedicado, y no profanen mi santo nombre. Yo Jehová.
 
-25 Además todas las mujeres sabias de corazón hilaban con sus manos, y traían lo que habían hilado: azul, púrpura, carmesí o lino fino.
+3 Diles: Todo varón de toda vuestra descendencia en vuestras generaciones, que se acercare a las cosas sagradas que los hijos de Israel consagran a Jehová, teniendo inmundicia sobre sí, será cortado de mi presencia. Yo Jehová.
 
-26 Y todas las mujeres cuyo corazón las impulsó en sabiduría hilaron pelo de cabra.
+4 Cualquier varón de la descendencia de Aarón que fuere leproso, o padeciere flujo, no comerá de las cosas sagradas hasta que esté limpio. El que tocare cualquiera cosa de cadáveres, o el varón que hubiere tenido derramamiento de semen,
 
-27 Los príncipes trajeron piedras de ónice, y las piedras de los engastes para el efod y el pectoral,
+5 o el varón que hubiere tocado cualquier reptil por el cual será inmundo, u hombre por el cual venga a ser inmundo, conforme a cualquiera inmundicia suya;
 
-28 y las especias aromáticas, y el aceite para el alumbrado, y para el aceite de la unción, y para el incienso aromático.
+6 la persona que lo tocare será inmunda hasta la noche, y no comerá de las cosas sagradas antes que haya lavado su cuerpo con agua.
 
-29 De los hijos de Israel, así hombres como mujeres, todos los que tuvieron corazón voluntario para traer para toda la obra, que Jehová había mandado por medio de Moisés que hiciesen, trajeron ofrenda voluntaria a Jehová.
+7 Cuando el sol se pusiere, será limpio; y después podrá comer las cosas sagradas, porque su alimento es.
 
-Llamamiento de Bezaleel y de Aholiab
-30 Y dijo Moisés a los hijos de Israel: Mirad, Jehová ha nombrado a Bezaleel hijo de Uri, hijo de Hur, de la tribu de Judá;
+8 Mortecino ni despedazado por fiera no comerá, contaminándose en ello. Yo Jehová.
 
-31 y lo ha llenado del Espíritu de Dios, en sabiduría, en inteligencia, en ciencia y en todo arte,
+9 Guarden, pues, mi ordenanza, para que no lleven pecado por ello, no sea que así mueran cuando la profanen. Yo Jehová que los santifico.
 
-32 para proyectar diseños, para trabajar en oro, en plata y en bronce,
+10 Ningún extraño comerá cosa sagrada; el huésped del sacerdote, y el jornalero, no comerán cosa sagrada.
 
-33 y en la talla de piedras de engaste, y en obra de madera, para trabajar en toda labor ingeniosa.
+11 Mas cuando el sacerdote comprare algún esclavo por dinero, éste podrá comer de ella, así como también el nacido en su casa podrá comer de su alimento.
 
-34 Y ha puesto en su corazón el que pueda enseñar, así él como Aholiab hijo de Ahisamac, de la tribu de Dan;
+12 La hija del sacerdote, si se casare con varón extraño, no comerá de la ofrenda de las cosas sagradas.
 
-35 y los ha llenado de sabiduría de corazón, para que hagan toda obra de arte y de invención, y de bordado en azul, en púrpura, en carmesí, en lino fino y en telar, para que hagan toda labor, e inventen todo diseño. `,
-  `1 Así, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón a quien Jehová dio sabiduría e inteligencia para saber hacer toda la obra del servicio del santuario, harán todas las cosas que ha mandado Jehová.
+13 Pero si la hija del sacerdote fuere viuda o repudiada, y no tuviere prole y se hubiere vuelto a la casa de su padre, como en su juventud, podrá comer del alimento de su padre; pero ningún extraño coma de él.
 
-Moisés suspende la ofrenda del pueblo
-2 Y Moisés llamó a Bezaleel y a Aholiab y a todo varón sabio de corazón, en cuyo corazón había puesto Jehová sabiduría, todo hombre a quien su corazón le movió a venir a la obra para trabajar en ella.
+14 Y el que por yerro comiere cosa sagrada, añadirá a ella una quinta parte, y la dará al sacerdote con la cosa sagrada.
 
-3 Y tomaron de delante de Moisés toda la ofrenda que los hijos de Israel habían traído para la obra del servicio del santuario, a fin de hacerla. Y ellos seguían trayéndole ofrenda voluntaria cada mañana.
+15 No profanarán, pues, las cosas santas de los hijos de Israel, las cuales apartan para Jehová;
 
-4 Tanto, que vinieron todos los maestros que hacían toda la obra del santuario, cada uno de la obra que hacía,
+16 pues les harían llevar la iniquidad del pecado, comiendo las cosas santas de ellos; porque yo Jehová soy el que los santifico.
 
-5 y hablaron a Moisés, diciendo: El pueblo trae mucho más de lo que se necesita para la obra que Jehová ha mandado que se haga.
+17 También habló Jehová a Moisés, diciendo:
 
-6 Entonces Moisés mandó pregonar por el campamento, diciendo: Ningún hombre ni mujer haga más para la ofrenda del santuario. Así se le impidió al pueblo ofrecer más;
+18 Habla a Aarón y a sus hijos, y a todos los hijos de Israel, y diles: Cualquier varón de la casa de Israel, o de los extranjeros en Israel, que ofreciere su ofrenda en pago de sus votos, o como ofrendas voluntarias ofrecidas en holocausto a Jehová,
 
-7 pues tenían material abundante para hacer toda la obra, y sobraba.
+19 para que sea aceptado, ofreceréis macho sin defecto de entre el ganado vacuno, de entre los corderos, o de entre las cabras.
 
-Construcción del tabernáculo
-8 Todos los sabios de corazón de entre los que hacían la obra, hicieron el tabernáculo de diez cortinas de lino torcido, azul, púrpura y carmesí; las hicieron con querubines de obra primorosa.
+20 Ninguna cosa en que haya defecto ofreceréis, porque no será acepto por vosotros.
 
-9 La longitud de una cortina era de veintiocho codos, y la anchura de cuatro codos; todas las cortinas eran de igual medida.
+21 Asimismo, cuando alguno ofreciere sacrificio en ofrenda de paz a Jehová para cumplir un voto, o como ofrenda voluntaria, sea de vacas o de ovejas, para que sea aceptado será sin defecto.
 
-10 Cinco de las cortinas las unió entre sí, y asimismo unió las otras cinco cortinas entre sí.
+22 Ciego, perniquebrado, mutilado, verrugoso, sarnoso o roñoso, no ofreceréis éstos a Jehová, ni de ellos pondréis ofrenda encendida sobre el altar de Jehová.
 
-11 E hizo lazadas de azul en la orilla de la cortina que estaba al extremo de la primera serie; e hizo lo mismo en la orilla de la cortina final de la segunda serie.
+23 Buey o carnero que tenga de más o de menos, podrás ofrecer por ofrenda voluntaria; pero en pago de voto no será acepto.
 
-12 Cincuenta lazadas hizo en la primera cortina, y otras cincuenta en la orilla de la cortina de la segunda serie; las lazadas de la una correspondían a las de la otra.
+24 No ofreceréis a Jehová animal con testículos heridos o magullados, rasgados o cortados, ni en vuestra tierra lo ofreceréis.
 
-13 Hizo también cincuenta corchetes de oro, con los cuales enlazó las cortinas una con otra, y así quedó formado un tabernáculo.
+25 Ni de mano de extranjeros tomarás estos animales para ofrecerlos como el pan de vuestro Dios, porque su corrupción está en ellos; hay en ellos defecto, no se os aceptarán.
 
-14 Hizo asimismo cortinas de pelo de cabra para una tienda sobre el tabernáculo; once cortinas hizo.
+26 Y habló Jehová a Moisés, diciendo:
 
-15 La longitud de una cortina era de treinta codos, y la anchura de cuatro codos; las once cortinas tenían una misma medida.
+27 El becerro o el cordero o la cabra, cuando naciere, siete días estará mamando de su madre; mas desde el octavo día en adelante será acepto para ofrenda de sacrificio encendido a Jehová.
 
-16 Y unió cinco de las cortinas aparte, y las otras seis cortinas aparte.
+28 Y sea vaca u oveja, no degollaréis en un mismo día a ella y a su hijo.
 
-17 Hizo además cincuenta lazadas en la orilla de la cortina que estaba al extremo de la primera serie, y otras cincuenta lazadas en la orilla de la cortina final de la segunda serie.
+29 Y cuando ofreciereis sacrificio de acción de gracias a Jehová, lo sacrificaréis de manera que sea aceptable.
 
-18 Hizo también cincuenta corchetes de bronce para enlazar la tienda, de modo que fuese una.
+30 En el mismo día se comerá; no dejaréis de él para otro día. Yo Jehová.
 
-19 E hizo para la tienda una cubierta de pieles de carneros teñidas de rojo, y otra cubierta de pieles de tejones encima.
+31 Guardad, pues, mis mandamientos, y cumplidlos. Yo Jehová.
 
-20 Además hizo para el tabernáculo las tablas de madera de acacia, derechas.
+32 Y no profanéis mi santo nombre, para que yo sea santificado en medio de los hijos de Israel. Yo Jehová que os santifico,
 
-21 La longitud de cada tabla era de diez codos, y de codo y medio la anchura.
+33 que os saqué de la tierra de Egipto, para ser vuestro Dios. Yo Jehová. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-22 Cada tabla tenía dos espigas, para unirlas una con otra; así hizo todas las tablas del tabernáculo.
+2 Habla a los hijos de Israel y diles: Las fiestas solemnes de Jehová, las cuales proclamaréis como santas convocaciones, serán estas:
 
-23 Hizo, pues, las tablas para el tabernáculo; veinte tablas al lado del sur, al mediodía.
+3 Seis días se trabajará, mas el séptimo día será de reposo, santa convocación; ningún trabajo haréis; día de reposo es de Jehová en dondequiera que habitéis.
 
-24 Hizo también cuarenta basas de plata debajo de las veinte tablas: dos basas debajo de una tabla, para sus dos espigas, y dos basas debajo de otra tabla para sus dos espigas.
+4 Estas son las fiestas solemnes de Jehová, las convocaciones santas, a las cuales convocaréis en sus tiempos:
 
-25 Y para el otro lado del tabernáculo, al lado norte, hizo otras veinte tablas,
+5 En el mes primero, a los catorce del mes, entre las dos tardes, pascua es de Jehová.
 
-26 con sus cuarenta basas de plata; dos basas debajo de una tabla, y dos basas debajo de otra tabla.
+6 Y a los quince días de este mes es la fiesta solemne de los panes sin levadura a Jehová; siete días comeréis panes sin levadura.
 
-27 Y para el lado occidental del tabernáculo hizo seis tablas.
+7 El primer día tendréis santa convocación; ningún trabajo de siervos haréis.
 
-28 Para las esquinas del tabernáculo en los dos lados hizo dos tablas,
+8 Y ofreceréis a Jehová siete días ofrenda encendida; el séptimo día será santa convocación; ningún trabajo de siervo haréis.
 
-29 las cuales se unían desde abajo, y por arriba se ajustaban con un gozne; así hizo a la una y a la otra en las dos esquinas.
+9 Y habló Jehová a Moisés, diciendo:
 
-30 Eran, pues, ocho tablas, y sus basas de plata dieciséis; dos basas debajo de cada tabla.
+10 Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, y seguéis su mies, traeréis al sacerdote una gavilla por primicia de los primeros frutos de vuestra siega.
 
-31 Hizo también las barras de madera de acacia; cinco para las tablas de un lado del tabernáculo,
+11 Y el sacerdote mecerá la gavilla delante de Jehová, para que seáis aceptos; el día siguiente del día de reposo la mecerá.
 
-32 cinco barras para las tablas del otro lado del tabernáculo, y cinco barras para las tablas del lado posterior del tabernáculo hacia el occidente.
+12 Y el día que ofrezcáis la gavilla, ofreceréis un cordero de un año, sin defecto, en holocausto a Jehová.
 
-33 E hizo que la barra de en medio pasase por en medio de las tablas de un extremo al otro.
+13 Su ofrenda será dos décimas de efa de flor de harina amasada con aceite, ofrenda encendida a Jehová en olor gratísimo; y su libación será de vino, la cuarta parte de un hin.
 
-34 Y cubrió de oro las tablas, e hizo de oro los anillos de ellas, por donde pasasen las barras; cubrió también de oro las barras.
+14 No comeréis pan, ni grano tostado, ni espiga fresca, hasta este mismo día, hasta que hayáis ofrecido la ofrenda de vuestro Dios; estatuto perpetuo es por vuestras edades en dondequiera que habitéis.
 
-35 Hizo asimismo el velo de azul, púrpura, carmesí y lino torcido; lo hizo con querubines de obra primorosa.
+15 Y contaréis desde el día que sigue al día de reposo, desde el día en que ofrecisteis la gavilla de la ofrenda mecida; siete semanas cumplidas serán.
 
-36 Y para él hizo cuatro columnas de madera de acacia, y las cubrió de oro, y sus capiteles eran de oro; y fundió para ellas cuatro basas de plata.
+16 Hasta el día siguiente del séptimo día de reposo contaréis cincuenta días; entonces ofreceréis el nuevo grano a Jehová.
 
-37 Hizo también el velo para la puerta del tabernáculo, de azul, púrpura, carmesí y lino torcido, obra de recamador;
+17 De vuestras habitaciones traeréis dos panes para ofrenda mecida, que serán de dos décimas de efa de flor de harina, cocidos con levadura, como primicias para Jehová.
 
-38 y sus cinco columnas con sus capiteles; y cubrió de oro los capiteles y las molduras, e hizo de bronce sus cinco basas. `,
-  `1 Hizo también Bezaleel el arca de madera de acacia; su longitud era de dos codos y medio, su anchura de codo y medio, y su altura de codo y medio.
+18 Y ofreceréis con el pan siete corderos de un año, sin defecto, un becerro de la vacada, y dos carneros; serán holocausto a Jehová, con su ofrenda y sus libaciones, ofrenda encendida de olor grato para Jehová.
 
-2 Y la cubrió de oro puro por dentro y por fuera, y le hizo una cornisa de oro en derredor.
+19 Ofreceréis además un macho cabrío por expiación, y dos corderos de un año en sacrificio de ofrenda de paz.
 
-3 Además fundió para ella cuatro anillos de oro a sus cuatro esquinas; en un lado dos anillos y en el otro lado dos anillos.
+20 Y el sacerdote los presentará como ofrenda mecida delante de Jehová, con el pan de las primicias y los dos corderos; serán cosa sagrada a Jehová para el sacerdote.
 
-4 Hizo también varas de madera de acacia, y las cubrió de oro.
+21 Y convocaréis en este mismo día santa convocación; ningún trabajo de siervos haréis; estatuto perpetuo en dondequiera que habitéis por vuestras generaciones.
 
-5 Y metió las varas por los anillos a los lados del arca, para llevar el arca.
+22 Cuando segareis la mies de vuestra tierra, no segaréis hasta el último rincón de ella, ni espigarás tu siega; para el pobre y para el extranjero la dejarás. Yo Jehová vuestro Dios.
 
-6 Hizo asimismo el propiciatorio de oro puro; su longitud de dos codos y medio, y su anchura de codo y medio.
+23 Y habló Jehová a Moisés, diciendo:
 
-7 Hizo también los dos querubines de oro, labrados a martillo, en los dos extremos del propiciatorio.
+24 Habla a los hijos de Israel y diles: En el mes séptimo, al primero del mes tendréis día de reposo, una conmemoración al son de trompetas, y una santa convocación.
 
-8 Un querubín a un extremo, y otro querubín al otro extremo; de una pieza con el propiciatorio hizo los querubines a sus dos extremos.
+25 Ningún trabajo de siervos haréis; y ofreceréis ofrenda encendida a Jehová.
 
-9 Y los querubines extendían sus alas por encima, cubriendo con sus alas el propiciatorio; y sus rostros el uno enfrente del otro miraban hacia el propiciatorio.
+26 También habló Jehová a Moisés, diciendo:
 
-10 Hizo también la mesa de madera de acacia; su longitud de dos codos, su anchura de un codo, y de codo y medio su altura;
+27 A los diez días de este mes séptimo será el día de expiación; tendréis santa convocación, y afligiréis vuestras almas, y ofreceréis ofrenda encendida a Jehová.
 
-11 y la cubrió de oro puro, y le hizo una cornisa de oro alrededor.
+28 Ningún trabajo haréis en este día; porque es día de expiación, para reconciliaros delante de Jehová vuestro Dios.
 
-12 Le hizo también una moldura de un palmo menor de anchura alrededor, e hizo en derredor de la moldura una cornisa de oro.
+29 Porque toda persona que no se afligiere en este mismo día, será cortada de su pueblo.
 
-13 Le hizo asimismo de fundición cuatro anillos de oro, y los puso a las cuatro esquinas que correspondían a las cuatro patas de ella.
+30 Y cualquiera persona que hiciere trabajo alguno en este día, yo destruiré a la tal persona de entre su pueblo.
 
-14 Debajo de la moldura estaban los anillos, por los cuales se metían las varas para llevar la mesa.
+31 Ningún trabajo haréis; estatuto perpetuo es por vuestras generaciones en dondequiera que habitéis.
 
-15 E hizo las varas de madera de acacia para llevar la mesa, y las cubrió de oro.
+32 Día de reposo será a vosotros, y afligiréis vuestras almas, comenzando a los nueve días del mes en la tarde; de tarde a tarde guardaréis vuestro reposo.
 
-16 También hizo los utensilios que habían de estar sobre la mesa, sus platos, sus cucharas, sus cubiertos y sus tazones con que se había de libar, de oro fino.
+33 Y habló Jehová a Moisés, diciendo:
 
-17 Hizo asimismo el candelero de oro puro, labrado a martillo; su pie, su caña, sus copas, sus manzanas y sus flores eran de lo mismo.
+34 Habla a los hijos de Israel y diles: A los quince días de este mes séptimo será la fiesta solemne de los tabernáculos a Jehová por siete días.
 
-18 De sus lados salían seis brazos; tres brazos de un lado del candelero, y otros tres brazos del otro lado del candelero.
+35 El primer día habrá santa convocación; ningún trabajo de siervos haréis.
 
-19 En un brazo, tres copas en forma de flor de almendro, una manzana y una flor, y en otro brazo tres copas en figura de flor de almendro, una manzana y una flor; así en los seis brazos que salían del candelero.
+36 Siete días ofreceréis ofrenda encendida a Jehová; el octavo día tendréis santa convocación, y ofreceréis ofrenda encendida a Jehová; es fiesta, ningún trabajo de siervos haréis.
 
-20 Y en la caña del candelero había cuatro copas en figura de flor de almendro, sus manzanas y sus flores,
+37 Estas son las fiestas solemnes de Jehová, a las que convocaréis santas reuniones, para ofrecer ofrenda encendida a Jehová, holocausto y ofrenda, sacrificio y libaciones, cada cosa en su tiempo,
 
-21 y una manzana debajo de dos brazos del mismo, y otra manzana debajo de otros dos brazos del mismo, y otra manzana debajo de los otros dos brazos del mismo, conforme a los seis brazos que salían de él.
+38 además de los días de reposo de Jehová, de vuestros dones, de todos vuestros votos, y de todas vuestras ofrendas voluntarias que acostumbráis dar a Jehová.
 
-22 Sus manzanas y sus brazos eran de lo mismo; todo era una pieza labrada a martillo, de oro puro.
+39 Pero a los quince días del mes séptimo, cuando hayáis recogido el fruto de la tierra, haréis fiesta a Jehová por siete días; el primer día será de reposo, y el octavo día será también día de reposo.
 
-23 Hizo asimismo sus siete lamparillas, sus despabiladeras y sus platillos, de oro puro.
+40 Y tomaréis el primer día ramas con fruto de árbol hermoso, ramas de palmeras, ramas de árboles frondosos, y sauces de los arroyos, y os regocijaréis delante de Jehová vuestro Dios por siete días.
 
-24 De un talento de oro puro lo hizo, con todos sus utensilios.
+41 Y le haréis fiesta a Jehová por siete días cada año; será estatuto perpetuo por vuestras generaciones; en el mes séptimo la haréis.
 
-25 Hizo también el altar del incienso, de madera de acacia; de un codo su longitud, y de otro codo su anchura; era cuadrado, y su altura de dos codos; y sus cuernos de la misma pieza.
+42 En tabernáculos habitaréis siete días; todo natural de Israel habitará en tabernáculos,
 
-26 Y lo cubrió de oro puro, su cubierta y sus paredes alrededor, y sus cuernos, y le hizo una cornisa de oro alrededor.
+43 para que sepan vuestros descendientes que en tabernáculos hice yo habitar a los hijos de Israel cuando los saqué de la tierra de Egipto. Yo Jehová vuestro Dios.
 
-27 Le hizo también dos anillos de oro debajo de la cornisa en las dos esquinas a los dos lados, para meter por ellos las varas con que había de ser conducido.
+44 Así habló Moisés a los hijos de Israel sobre las fiestas solemnes de Jehová. `,
+  `1 Habló Jehová a Moisés, diciendo:
 
-28 E hizo las varas de madera de acacia, y las cubrió de oro.
+2 Manda a los hijos de Israel que te traigan para el alumbrado aceite puro de olivas machacadas, para hacer arder las lámparas continuamente.
 
-29 Hizo asimismo el aceite santo de la unción, y el incienso puro, aromático, según el arte del perfumador. `,
-  `1 Igualmente hizo de madera de acacia el altar del holocausto; su longitud de cinco codos, y su anchura de otros cinco codos, cuadrado, y de tres codos de altura.
+3 Fuera del velo del testimonio, en el tabernáculo de reunión, las dispondrá Aarón desde la tarde hasta la mañana delante de Jehová; es estatuto perpetuo por vuestras generaciones.
 
-2 E hizo sus cuernos a sus cuatro esquinas, los cuales eran de la misma pieza, y lo cubrió de bronce.
+4 Sobre el candelero limpio pondrá siempre en orden las lámparas delante de Jehová.
 
-3 Hizo asimismo todos los utensilios del altar; calderos, tenazas, tazones, garfios y palas; todos sus utensilios los hizo de bronce.
+El pan de la proposición
+5 Y tomarás flor de harina, y cocerás de ella doce tortas; cada torta será de dos décimas de efa.
 
-4 E hizo para el altar un enrejado de bronce de obra de rejilla, que puso por debajo de su cerco hasta la mitad del altar.
+6 Y las pondrás en dos hileras, seis en cada hilera, sobre la mesa limpia delante de Jehová.
 
-5 También fundió cuatro anillos a los cuatro extremos del enrejado de bronce, para meter las varas.
+7 Pondrás también sobre cada hilera incienso puro, y será para el pan como perfume, ofrenda encendida a Jehová.
 
-6 E hizo las varas de madera de acacia, y las cubrió de bronce.
+8 Cada día de reposo lo pondrá continuamente en orden delante de Jehová, en nombre de los hijos de Israel, como pacto perpetuo.
 
-7 Y metió las varas por los anillos a los lados del altar, para llevarlo con ellas; hueco lo hizo, de tablas.
+9 Y será de Aarón y de sus hijos, los cuales lo comerán en lugar santo; porque es cosa muy santa para él, de las ofrendas encendidas a Jehová, por derecho perpetuo.
 
-8 También hizo la fuente de bronce y su base de bronce, de los espejos de las mujeres que velaban a la puerta del tabernáculo de reunión.
+Castigo del blasfemo
+10 En aquel tiempo el hijo de una mujer israelita, el cual era hijo de un egipcio, salió entre los hijos de Israel; y el hijo de la israelita y un hombre de Israel riñeron en el campamento.
 
-El atrio del tabernáculo
-9 Hizo asimismo el atrio; del lado sur, al mediodía, las cortinas del atrio eran de cien codos, de lino torcido.
+11 Y el hijo de la mujer israelita blasfemó el Nombre, y maldijo; entonces lo llevaron a Moisés. Y su madre se llamaba Selomit, hija de Dibri, de la tribu de Dan.
 
-10 Sus columnas eran veinte, con sus veinte basas de bronce; los capiteles de las columnas y sus molduras, de plata.
+12 Y lo pusieron en la cárcel, hasta que les fuese declarado por palabra de Jehová.
 
-11 Y del lado norte cortinas de cien codos; sus columnas, veinte, con sus veinte basas de bronce; los capiteles de las columnas y sus molduras, de plata.
+13 Y Jehová habló a Moisés, diciendo:
 
-12 Del lado del occidente, cortinas de cincuenta codos; sus columnas diez, y sus diez basas; los capiteles de las columnas y sus molduras, de plata.
+14 Saca al blasfemo fuera del campamento, y todos los que le oyeron pongan sus manos sobre la cabeza de él, y apedréelo toda la congregación.
 
-13 Del lado oriental, al este, cortinas de cincuenta codos;
+15 Y a los hijos de Israel hablarás, diciendo: Cualquiera que maldijere a su Dios, llevará su iniquidad.
 
-14 a un lado cortinas de quince codos, sus tres columnas y sus tres basas;
+16 Y el que blasfemare el nombre de Jehová, ha de ser muerto; toda la congregación lo apedreará; así el extranjero como el natural, si blasfemare el Nombre, que muera.
 
-15 al otro lado, de uno y otro lado de la puerta del atrio, cortinas de quince codos, con sus tres columnas y sus tres basas.
+17 Asimismo el hombre que hiere de muerte a cualquiera persona, que sufra la muerte.
 
-16 Todas las cortinas del atrio alrededor eran de lino torcido.
+18 El que hiere a algún animal ha de restituirlo, animal por animal.
 
-17 Las basas de las columnas eran de bronce; los capiteles de las columnas y sus molduras, de plata; asimismo las cubiertas de las cabezas de ellas, de plata; y todas las columnas del atrio tenían molduras de plata.
+19 Y el que causare lesión en su prójimo, según hizo, así le sea hecho:
 
-18 La cortina de la entrada del atrio era de obra de recamador, de azul, púrpura, carmesí y lino torcido; era de veinte codos de longitud, y su anchura, o sea su altura, era de cinco codos, lo mismo que las cortinas del atrio.
+20 rotura por rotura, ojo por ojo, diente por diente; según la lesión que haya hecho a otro, tal se hará a él.
 
-19 Sus columnas eran cuatro, con sus cuatro basas de bronce y sus capiteles de plata; y las cubiertas de los capiteles de ellas, y sus molduras, de plata.
+21 El que hiere algún animal ha de restituirlo; mas el que hiere de muerte a un hombre, que muera.
 
-20 Todas las estacas del tabernáculo y del atrio alrededor eran de bronce.
+22 Un mismo estatuto tendréis para el extranjero, como para el natural; porque yo soy Jehová vuestro Dios.
 
-Dirección de la obra
-21 Estas son las cuentas del tabernáculo, del tabernáculo del testimonio, las que se hicieron por orden de Moisés por obra de los levitas bajo la dirección de Itamar hijo del sacerdote Aarón.
+23 Y habló Moisés a los hijos de Israel, y ellos sacaron del campamento al blasfemo y lo apedrearon. Y los hijos de Israel hicieron según Jehová había mandado a Moisés. `,
+  `1 Jehová habló a Moisés en el monte de Sinaí, diciendo:
 
-22 Y Bezaleel hijo de Uri, hijo de Hur, de la tribu de Judá, hizo todas las cosas que Jehová mandó a Moisés.
+2 Habla a los hijos de Israel y diles: Cuando hayáis entrado en la tierra que yo os doy, la tierra guardará reposo para Jehová.
 
-23 Y con él estaba Aholiab hijo de Ahisamac, de la tribu de Dan, artífice, diseñador y recamador en azul, púrpura, carmesí y lino fino.
+3 Seis años sembrarás tu tierra, y seis años podarás tu viña y recogerás sus frutos.
 
-Metales usados en el santuario
-24 Todo el oro empleado en la obra, en toda la obra del santuario, el cual fue oro de la ofrenda, fue veintinueve talentos y setecientos treinta siclos, según el siclo del santuario.
+4 Pero el séptimo año la tierra tendrá descanso, reposo para Jehová; no sembrarás tu tierra, ni podarás tu viña.
 
-25 Y la plata de los empadronados de la congregación fue cien talentos y mil setecientos setenta y cinco siclos, según el siclo del santuario;
+5 Lo que de suyo naciere en tu tierra segada, no lo segarás, y las uvas de tu viñedo no vendimiarás; año de reposo será para la tierra.
 
-26 medio siclo por cabeza, según el siclo del santuario; a todos los que pasaron por el censo, de edad de veinte años arriba, que fueron seiscientos tres mil quinientos cincuenta.
+6 Mas el descanso de la tierra te dará para comer a ti, a tu siervo, a tu sierva, a tu criado, y a tu extranjero que morare contigo;
 
-27 Hubo además cien talentos de plata para fundir las basas del santuario y las basas del velo; en cien basas, cien talentos, a talento por basa.
+7 y a tu animal, y a la bestia que hubiere en tu tierra, será todo el fruto de ella para comer.
 
-28 Y de los mil setecientos setenta y cinco siclos hizo los capiteles de las columnas, y cubrió los capiteles de ellas, y las ciñó.
+8 Y contarás siete semanas de años, siete veces siete años, de modo que los días de las siete semanas de años vendrán a serte cuarenta y nueve años.
 
-29 El bronce ofrendado fue setenta talentos y dos mil cuatrocientos siclos,
+9 Entonces harás tocar fuertemente la trompeta en el mes séptimo a los diez días del mes; el día de la expiación haréis tocar la trompeta por toda vuestra tierra.
 
-30 del cual fueron hechas las basas de la puerta del tabernáculo de reunión, y el altar de bronce y su enrejado de bronce, y todos los utensilios del altar,
+10 Y santificaréis el año cincuenta, y pregonaréis libertad en la tierra a todos sus moradores; ese año os será de jubileo, y volveréis cada uno a vuestra posesión, y cada cual volverá a su familia.
 
-31 las basas del atrio alrededor, las basas de la puerta del atrio, y todas las estacas del tabernáculo y todas las estacas del atrio alrededor. `,
-  `1 Del azul, púrpura y carmesí hicieron las vestiduras del ministerio para ministrar en el santuario, y asimismo hicieron las vestiduras sagradas para Aarón, como Jehová lo había mandado a Moisés.
+11 El año cincuenta os será jubileo; no sembraréis, ni segaréis lo que naciere de suyo en la tierra, ni vendimiaréis sus viñedos,
 
-2 Hizo también el efod de oro, de azul, púrpura, carmesí y lino torcido.
+12 porque es jubileo; santo será a vosotros; el producto de la tierra comeréis.
 
-3 Y batieron láminas de oro, y cortaron hilos para tejerlos entre el azul, la púrpura, el carmesí y el lino, con labor primorosa.
+13 En este año de jubileo volveréis cada uno a vuestra posesión.
 
-4 Hicieron las hombreras para que se juntasen, y se unían en sus dos extremos.
+14 Y cuando vendiereis algo a vuestro prójimo, o comprareis de mano de vuestro prójimo, no engañe ninguno a su hermano.
 
-5 Y el cinto del efod que estaba sobre él era de lo mismo, de igual labor; de oro, azul, púrpura, carmesí y lino torcido, como Jehová lo había mandado a Moisés.
+15 Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él a ti.
 
-6 Y labraron las piedras de ónice montadas en engastes de oro, con grabaduras de sello con los nombres de los hijos de Israel,
+16 Cuanto mayor fuere el número de los años, aumentarás el precio, y cuanto menor fuere el número, disminuirás el precio; porque según el número de las cosechas te venderá él.
 
-7 y las puso sobre las hombreras del efod, por piedras memoriales para los hijos de Israel, como Jehová lo había mandado a Moisés.
+17 Y no engañe ninguno a su prójimo, sino temed a vuestro Dios; porque yo soy Jehová vuestro Dios.
 
-8 Hizo también el pectoral de obra primorosa como la obra del efod, de oro, azul, púrpura, carmesí y lino torcido.
+18 Ejecutad, pues, mis estatutos y guardad mis ordenanzas, y ponedlos por obra, y habitaréis en la tierra seguros;
 
-9 Era cuadrado; doble hicieron el pectoral; su longitud era de un palmo, y de un palmo su anchura, cuando era doblado.
+19 y la tierra dará su fruto, y comeréis hasta saciaros, y habitaréis en ella con seguridad.
 
-10 Y engastaron en él cuatro hileras de piedras. La primera hilera era un sardio, un topacio y un carbunclo; esta era la primera hilera.
+20 Y si dijereis: ¿Qué comeremos el séptimo año? He aquí no hemos de sembrar, ni hemos de recoger nuestros frutos;
 
-11 La segunda hilera, una esmeralda, un zafiro y un diamante.
+21 entonces yo os enviaré mi bendición el sexto año, y ella hará que haya fruto por tres años.
 
-12 La tercera hilera, un jacinto, una ágata y una amatista.
+22 Y sembraréis el año octavo, y comeréis del fruto añejo; hasta el año noveno, hasta que venga su fruto, comeréis del añejo.
 
-13 Y la cuarta hilera, un berilo, un ónice y un jaspe, todas montadas y encajadas en engastes de oro.
+23 La tierra no se venderá a perpetuidad, porque la tierra mía es; pues vosotros forasteros y extranjeros sois para conmigo.
 
-14 Y las piedras eran conforme a los nombres de los hijos de Israel, doce según los nombres de ellos; como grabaduras de sello, cada una con su nombre, según las doce tribus.
+24 Por tanto, en toda la tierra de vuestra posesión otorgaréis rescate a la tierra.
 
-15 Hicieron también sobre el pectoral los cordones de forma de trenza, de oro puro.
+25 Cuando tu hermano empobreciere, y vendiere algo de su posesión, entonces su pariente más próximo vendrá y rescatará lo que su hermano hubiere vendido.
 
-16 Hicieron asimismo dos engastes y dos anillos de oro, y pusieron dos anillos de oro en los dos extremos del pectoral,
+26 Y cuando el hombre no tuviere rescatador, y consiguiere lo suficiente para el rescate,
 
-17 y fijaron los dos cordones de oro en aquellos dos anillos a los extremos del pectoral.
+27 entonces contará los años desde que vendió, y pagará lo que quedare al varón a quien vendió, y volverá a su posesión.
 
-18 Fijaron también los otros dos extremos de los dos cordones de oro en los dos engastes que pusieron sobre las hombreras del efod por delante.
+28 Mas si no consiguiere lo suficiente para que se la devuelvan, lo que vendió estará en poder del que lo compró hasta el año del jubileo; y al jubileo saldrá, y él volverá a su posesión.
 
-19 E hicieron otros dos anillos de oro que pusieron en los dos extremos del pectoral, en su orilla, frente a la parte baja del efod.
+29 El varón que vendiere casa de habitación en ciudad amurallada, tendrá facultad de redimirla hasta el término de un año desde la venta; un año será el término de poderse redimir.
 
-20 Hicieron además dos anillos de oro que pusieron en la parte delantera de las dos hombreras del efod, hacia abajo, cerca de su juntura, sobre el cinto del efod.
+30 Y si no fuere rescatada dentro de un año entero, la casa que estuviere en la ciudad amurallada quedará para siempre en poder de aquel que la compró, y para sus descendientes; no saldrá en el jubileo.
 
-21 Y ataron el pectoral por sus anillos a los anillos del efod con un cordón de azul, para que estuviese sobre el cinto del mismo efod y no se separase el pectoral del efod, como Jehová lo había mandado a Moisés.
+31 Mas las casas de las aldeas que no tienen muro alrededor serán estimadas como los terrenos del campo; podrán ser rescatadas, y saldrán en el jubileo.
 
-22 Hizo también el manto del efod de obra de tejedor, todo de azul,
+32 Pero en cuanto a las ciudades de los levitas, éstos podrán rescatar en cualquier tiempo las casas en las ciudades de su posesión.
 
-23 con su abertura en medio de él, como el cuello de un coselete, con un borde alrededor de la abertura, para que no se rompiese.
+33 Y el que comprare de los levitas saldrá de la casa vendida, o de la ciudad de su posesión, en el jubileo, por cuanto las casas de las ciudades de los levitas son la posesión de ellos entre los hijos de Israel.
 
-24 E hicieron en las orillas del manto granadas de azul, púrpura, carmesí y lino torcido.
+34 Mas la tierra del ejido de sus ciudades no se venderá, porque es perpetua posesión de ellos.
 
-25 Hicieron también campanillas de oro puro, y pusieron campanillas entre las granadas en las orillas del manto, alrededor, entre las granadas;
+35 Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo.
 
-26 una campanilla y una granada, otra campanilla y otra granada alrededor, en las orillas del manto, para ministrar, como Jehová lo mandó a Moisés.
+36 No tomarás de él usura ni ganancia, sino tendrás temor de tu Dios, y tu hermano vivirá contigo.
 
-27 Igualmente hicieron las túnicas de lino fino de obra de tejedor, para Aarón y para sus hijos.
+37 No le darás tu dinero a usura, ni tus víveres a ganancia.
 
-28 Asimismo la mitra de lino fino, y los adornos de las tiaras de lino fino, y los calzoncillos de lino, de lino torcido.
+38 Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para daros la tierra de Canaán, para ser vuestro Dios.
 
-29 También el cinto de lino torcido, de azul, púrpura y carmesí, de obra de recamador, como Jehová lo mandó a Moisés.
+39 Y cuando tu hermano empobreciere, estando contigo, y se vendiere a ti, no le harás servir como esclavo.
 
-30 Hicieron asimismo la lámina de la diadema santa de oro puro, y escribieron en ella como grabado de sello: SANTIDAD A JEHOVÁ.
+40 Como criado, como extranjero estará contigo; hasta el año del jubileo te servirá.
 
-31 Y pusieron en ella un cordón de azul para colocarla sobre la mitra por arriba, como Jehová lo había mandado a Moisés.
+41 Entonces saldrá libre de tu casa; él y sus hijos consigo, y volverá a su familia, y a la posesión de sus padres se restituirá.
 
-La obra del tabernáculo terminada
-32 Así fue acabada toda la obra del tabernáculo, del tabernáculo de reunión; e hicieron los hijos de Israel como Jehová lo había mandado a Moisés; así lo hicieron.
+42 Porque son mis siervos, los cuales saqué yo de la tierra de Egipto; no serán vendidos a manera de esclavos.
 
-33 Y trajeron el tabernáculo a Moisés, el tabernáculo y todos sus utensilios; sus corchetes, sus tablas, sus barras, sus columnas, sus basas;
+43 No te enseñorearás de él con dureza, sino tendrás temor de tu Dios.
 
-34 la cubierta de pieles de carnero teñidas de rojo, la cubierta de pieles de tejones, el velo del frente;
+44 Así tu esclavo como tu esclava que tuvieres, serán de las gentes que están en vuestro alrededor; de ellos podréis comprar esclavos y esclavas.
 
-35 el arca del testimonio y sus varas, el propiciatorio;
+45 También podréis comprar de los hijos de los forasteros que viven entre vosotros, y de las familias de ellos nacidos en vuestra tierra, que están con vosotros, los cuales podréis tener por posesión.
 
-36 la mesa, todos sus vasos, el pan de la proposición;
+46 Y los podréis dejar en herencia para vuestros hijos después de vosotros, como posesión hereditaria; para siempre os serviréis de ellos; pero en vuestros hermanos los hijos de Israel no os enseñorearéis cada uno sobre su hermano con dureza.
 
-37 el candelero puro, sus lamparillas, las lamparillas que debían mantenerse en orden, y todos sus utensilios, el aceite para el alumbrado;
+47 Si el forastero o el extranjero que está contigo se enriqueciere, y tu hermano que está junto a él empobreciere, y se vendiere al forastero o extranjero que está contigo, o a alguno de la familia del extranjero;
 
-38 el altar de oro, el aceite de la unción, el incienso aromático, la cortina para la entrada del tabernáculo;
+48 después que se hubiere vendido, podrá ser rescatado; uno de sus hermanos lo rescatará.
 
-39 el altar de bronce con su enrejado de bronce, sus varas y todos sus utensilios, la fuente y su base;
+49 O su tío o el hijo de su tío lo rescatará, o un pariente cercano de su familia lo rescatará; o si sus medios alcanzaren, él mismo se rescatará.
 
-40 las cortinas del atrio, sus columnas y sus basas, la cortina para la entrada del atrio, sus cuerdas y sus estacas, y todos los utensilios del servicio del tabernáculo, del tabernáculo de reunión;
+50 Hará la cuenta con el que lo compró, desde el año que se vendió a él hasta el año del jubileo; y ha de apreciarse el precio de su venta conforme al número de los años, y se contará el tiempo que estuvo con él conforme al tiempo de un criado asalariado.
 
-41 las vestiduras del servicio para ministrar en el santuario, las sagradas vestiduras para Aarón el sacerdote, y las vestiduras de sus hijos, para ministrar en el sacerdocio.
+51 Si aún fueren muchos años, conforme a ellos devolverá para su rescate, del dinero por el cual se vendió.
 
-42 En conformidad a todas las cosas que Jehová había mandado a Moisés, así hicieron los hijos de Israel toda la obra.
+52 Y si quedare poco tiempo hasta el año del jubileo, entonces hará un cálculo con él, y devolverá su rescate conforme a sus años.
 
-43 Y vio Moisés toda la obra, y he aquí que la habían hecho como Jehová había mandado; y los bendijo. `,
-  `1 Luego Jehová habló a Moisés, diciendo:
+53 Como con el tomado a salario anualmente hará con él; no se enseñoreará en él con rigor delante de tus ojos.
 
-2 En el primer día del mes primero harás levantar el tabernáculo, el tabernáculo de reunión;
+54 Y si no se rescatare en esos años, en el año del jubileo saldrá, él y sus hijos con él.
 
-3 y pondrás en él el arca del testimonio, y la cubrirás con el velo.
+55 Porque mis siervos son los hijos de Israel; son siervos míos, a los cuales saqué de la tierra de Egipto. Yo Jehová vuestro Dios. `,
+  `1 No haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros a ella; porque yo soy Jehová vuestro Dios.
 
-4 Meterás la mesa y la pondrás en orden; meterás también el candelero y encenderás sus lámparas,
+2 Guardad mis días de reposo, y tened en reverencia mi santuario. Yo Jehová.
 
-5 y pondrás el altar de oro para el incienso delante del arca del testimonio, y pondrás la cortina delante a la entrada del tabernáculo.
+3 Si anduviereis en mis decretos y guardareis mis mandamientos, y los pusiereis por obra,
 
-6 Después pondrás el altar del holocausto delante de la entrada del tabernáculo, del tabernáculo de reunión.
+4 yo daré vuestra lluvia en su tiempo, y la tierra rendirá sus productos, y el árbol del campo dará su fruto.
 
-7 Luego pondrás la fuente entre el tabernáculo de reunión y el altar, y pondrás agua en ella.
+5 Vuestra trilla alcanzará a la vendimia, y la vendimia alcanzará a la sementera, y comeréis vuestro pan hasta saciaros, y habitaréis seguros en vuestra tierra.
 
-8 Finalmente pondrás el atrio alrededor, y la cortina a la entrada del atrio.
+6 Y yo daré paz en la tierra, y dormiréis, y no habrá quien os espante; y haré quitar de vuestra tierra las malas bestias, y la espada no pasará por vuestro país.
 
-9 Y tomarás el aceite de la unción y ungirás el tabernáculo, y todo lo que está en él; y lo santificarás con todos sus utensilios, y será santo.
+7 Y perseguiréis a vuestros enemigos, y caerán a espada delante de vosotros.
 
-10 Ungirás también el altar del holocausto y todos sus utensilios; y santificarás el altar, y será un altar santísimo.
+8 Cinco de vosotros perseguirán a ciento, y ciento de vosotros perseguirán a diez mil, y vuestros enemigos caerán a filo de espada delante de vosotros.
 
-11 Asimismo ungirás la fuente y su base, y la santificarás.
+9 Porque yo me volveré a vosotros, y os haré crecer, y os multiplicaré, y afirmaré mi pacto con vosotros.
 
-12 Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua.
+10 Comeréis lo añejo de mucho tiempo, y pondréis fuera lo añejo para guardar lo nuevo.
 
-13 Y harás vestir a Aarón las vestiduras sagradas, y lo ungirás, y lo consagrarás, para que sea mi sacerdote.
+11 Y pondré mi morada en medio de vosotros, y mi alma no os abominará;
 
-14 Después harás que se acerquen sus hijos, y les vestirás las túnicas;
+12 y andaré entre vosotros, y yo seré vuestro Dios, y vosotros seréis mi pueblo.
 
-15 y los ungirás, como ungiste a su padre, y serán mis sacerdotes, y su unción les servirá por sacerdocio perpetuo, por sus generaciones.
+13 Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para que no fueseis sus siervos, y rompí las coyundas de vuestro yugo, y os he hecho andar con el rostro erguido.
 
-16 Y Moisés hizo conforme a todo lo que Jehová le mandó; así lo hizo.
+Consecuencias de la desobediencia
+14 Pero si no me oyereis, ni hiciereis todos estos mis mandamientos,
 
-17 Así, en el día primero del primer mes, en el segundo año, el tabernáculo fue erigido.
+15 y si desdeñareis mis decretos, y vuestra alma menospreciare mis estatutos, no ejecutando todos mis mandamientos, e invalidando mi pacto,
 
-18 Moisés hizo levantar el tabernáculo, y asentó sus basas, y colocó sus tablas, y puso sus barras, e hizo alzar sus columnas.
+16 yo también haré con vosotros esto: enviaré sobre vosotros terror, extenuación y calentura, que consuman los ojos y atormenten el alma; y sembraréis en vano vuestra semilla, porque vuestros enemigos la comerán.
 
-19 Levantó la tienda sobre el tabernáculo, y puso la sobrecubierta encima del mismo, como Jehová había mandado a Moisés.
+17 Pondré mi rostro contra vosotros, y seréis heridos delante de vuestros enemigos; y los que os aborrecen se enseñorearán de vosotros, y huiréis sin que haya quien os persiga.
 
-20 Y tomó el testimonio y lo puso dentro del arca, y colocó las varas en el arca, y encima el propiciatorio sobre el arca.
+18 Y si aun con estas cosas no me oyereis, yo volveré a castigaros siete veces más por vuestros pecados.
 
-21 Luego metió el arca en el tabernáculo, y puso el velo extendido, y ocultó el arca del testimonio, como Jehová había mandado a Moisés.
+19 Y quebrantaré la soberbia de vuestro orgullo, y haré vuestro cielo como hierro, y vuestra tierra como bronce.
 
-22 Puso la mesa en el tabernáculo de reunión, al lado norte de la cortina, fuera del velo,
+20 Vuestra fuerza se consumirá en vano, porque vuestra tierra no dará su producto, y los árboles de la tierra no darán su fruto.
 
-23 y sobre ella puso por orden los panes delante de Jehová, como Jehová había mandado a Moisés.
+21 Si anduviereis conmigo en oposición, y no me quisiereis oír, yo añadiré sobre vosotros siete veces más plagas según vuestros pecados.
 
-24 Puso el candelero en el tabernáculo de reunión, enfrente de la mesa, al lado sur de la cortina,
+22 Enviaré también contra vosotros bestias fieras que os arrebaten vuestros hijos, y destruyan vuestro ganado, y os reduzcan en número, y vuestros caminos sean desiertos.
 
-25 y encendió las lámparas delante de Jehová, como Jehová había mandado a Moisés.
+23 Y si con estas cosas no fuereis corregidos, sino que anduviereis conmigo en oposición,
 
-26 Puso también el altar de oro en el tabernáculo de reunión, delante del velo,
+24 yo también procederé en contra de vosotros, y os heriré aún siete veces por vuestros pecados.
 
-27 y quemó sobre él incienso aromático, como Jehová había mandado a Moisés.
+25 Traeré sobre vosotros espada vengadora, en vindicación del pacto; y si buscareis refugio en vuestras ciudades, yo enviaré pestilencia entre vosotros, y seréis entregados en mano del enemigo.
 
-28 Puso asimismo la cortina a la entrada del tabernáculo.
+26 Cuando yo os quebrante el sustento del pan, cocerán diez mujeres vuestro pan en un horno, y os devolverán vuestro pan por peso; y comeréis, y no os saciaréis.
 
-29 Y colocó el altar del holocausto a la entrada del tabernáculo, del tabernáculo de reunión, y sacrificó sobre él holocausto y ofrenda, como Jehová había mandado a Moisés.
+27 Si aun con esto no me oyereis, sino que procediereis conmigo en oposición,
 
-30 Y puso la fuente entre el tabernáculo de reunión y el altar, y puso en ella agua para lavar.
+28 yo procederé en contra de vosotros con ira, y os castigaré aún siete veces por vuestros pecados.
 
-31 Y Moisés y Aarón y sus hijos lavaban en ella sus manos y sus pies.
+29 Y comeréis la carne de vuestros hijos, y comeréis la carne de vuestras hijas.
 
-32 Cuando entraban en el tabernáculo de reunión, y cuando se acercaban al altar, se lavaban, como Jehová había mandado a Moisés.
+30 Destruiré vuestros lugares altos, y derribaré vuestras imágenes, y pondré vuestros cuerpos muertos sobre los cuerpos muertos de vuestros ídolos, y mi alma os abominará.
 
-33 Finalmente erigió el atrio alrededor del tabernáculo y del altar, y puso la cortina a la entrada del atrio. Así acabó Moisés la obra.
+31 Haré desiertas vuestras ciudades, y asolaré vuestros santuarios, y no oleré la fragancia de vuestro suave perfume.
 
-La nube sobre el tabernáculo
-34 Entonces una nube cubrió el tabernáculo de reunión, y la gloria de Jehová llenó el tabernáculo.
+32 Asolaré también la tierra, y se pasmarán por ello vuestros enemigos que en ella moren;
 
-35 Y no podía Moisés entrar en el tabernáculo de reunión, porque la nube estaba sobre él, y la gloria de Jehová lo llenaba.
+33 y a vosotros os esparciré entre las naciones, y desenvainaré espada en pos de vosotros; y vuestra tierra estará asolada, y desiertas vuestras ciudades.
 
-36 Y cuando la nube se alzaba del tabernáculo, los hijos de Israel se movían en todas sus jornadas;
+34 Entonces la tierra gozará sus días de reposo, todos los días que esté asolada, mientras vosotros estéis en la tierra de vuestros enemigos; la tierra descansará entonces y gozará sus días de reposo.
 
-37 pero si la nube no se alzaba, no se movían hasta el día en que ella se alzaba.
+35 Todo el tiempo que esté asolada, descansará por lo que no reposó en los días de reposo cuando habitabais en ella.
 
-38 Porque la nube de Jehová estaba de día sobre el tabernáculo, y el fuego estaba de noche sobre él, a vista de toda la casa de Israel, en todas sus jornadas. `,
+36 Y a los que queden de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja que se mueva los perseguirá, y huirán como ante la espada, y caerán sin que nadie los persiga.
+
+37 Tropezarán los unos con los otros como si huyeran ante la espada, aunque nadie los persiga; y no podréis resistir delante de vuestros enemigos.
+
+38 Y pereceréis entre las naciones, y la tierra de vuestros enemigos os consumirá.
+
+39 Y los que queden de vosotros decaerán en las tierras de vuestros enemigos por su iniquidad; y por la iniquidad de sus padres decaerán con ellos.
+
+40 Y confesarán su iniquidad, y la iniquidad de sus padres, por su prevaricación con que prevaricaron contra mí; y también porque anduvieron conmigo en oposición,
+
+41 yo también habré andado en contra de ellos, y los habré hecho entrar en la tierra de sus enemigos; y entonces se humillará su corazón incircunciso, y reconocerán su pecado.
+
+42 Entonces yo me acordaré de mi pacto con Jacob, y asimismo de mi pacto con Isaac, y también de mi pacto con Abraham me acordaré, y haré memoria de la tierra.
+
+43 Pero la tierra será abandonada por ellos, y gozará sus días de reposo, estando desierta a causa de ellos; y entonces se someterán al castigo de sus iniquidades; por cuanto menospreciaron mis ordenanzas, y su alma tuvo fastidio de mis estatutos.
+
+44 Y aun con todo esto, estando ellos en tierra de sus enemigos, yo no los desecharé, ni los abominaré para consumirlos, invalidando mi pacto con ellos; porque yo Jehová soy su Dios.
+
+45 Antes me acordaré de ellos por el pacto antiguo, cuando los saqué de la tierra de Egipto a los ojos de las naciones, para ser su Dios. Yo Jehová.
+
+46 Estos son los estatutos, ordenanzas y leyes que estableció Jehová entre sí y los hijos de Israel en el monte de Sinaí por mano de Moisés. `,
+  `1 Habló Jehová a Moisés, diciendo:
+
+2 Habla a los hijos de Israel y diles: Cuando alguno hiciere especial voto a Jehová, según la estimación de las personas que se hayan de redimir, lo estimarás así:
+
+3 En cuanto al varón de veinte años hasta sesenta, lo estimarás en cincuenta siclos de plata, según el siclo del santuario.
+
+4 Y si fuere mujer, la estimarás en treinta siclos.
+
+5 Y si fuere de cinco años hasta veinte, al varón lo estimarás en veinte siclos, y a la mujer en diez siclos.
+
+6 Y si fuere de un mes hasta cinco años, entonces estimarás al varón en cinco siclos de plata, y a la mujer en tres siclos de plata.
+
+7 Mas si fuere de sesenta años o más, al varón lo estimarás en quince siclos, y a la mujer en diez siclos.
+
+8 Pero si fuere muy pobre para pagar tu estimación, entonces será llevado ante el sacerdote, quien fijará el precio; conforme a la posibilidad del que hizo el voto, le fijará precio el sacerdote.
+
+9 Y si fuere animal de los que se ofrece ofrenda a Jehová, todo lo que de los tales se diere a Jehová será santo.
+
+10 No será cambiado ni trocado, bueno por malo, ni malo por bueno; y si se permutare un animal por otro, él y el dado en cambio de él serán sagrados.
+
+11 Si fuere algún animal inmundo, de que no se ofrece ofrenda a Jehová, entonces el animal será puesto delante del sacerdote,
+
+12 y el sacerdote lo valorará, sea bueno o sea malo; conforme a la estimación del sacerdote, así será.
+
+13 Y si lo quisiere rescatar, añadirá sobre tu valuación la quinta parte.
+
+14 Cuando alguno dedicare su casa consagrándola a Jehová, la valorará el sacerdote, sea buena o sea mala; según la valorare el sacerdote, así quedará.
+
+15 Mas si el que dedicó su casa deseare rescatarla, añadirá a tu valuación la quinta parte del valor de ella, y será suya.
+
+16 Si alguno dedicare de la tierra de su posesión a Jehová, tu estimación será conforme a su siembra; un homer de siembra de cebada se valorará en cincuenta siclos de plata.
+
+17 Y si dedicare su tierra desde el año del jubileo, conforme a tu estimación quedará.
+
+18 Mas si después del jubileo dedicare su tierra, entonces el sacerdote hará la cuenta del dinero conforme a los años que quedaren hasta el año del jubileo, y se rebajará de tu estimación.
+
+19 Y si el que dedicó la tierra quisiere redimirla, añadirá a tu estimación la quinta parte del precio de ella, y se le quedará para él.
+
+20 Mas si él no rescatare la tierra, y la tierra se vendiere a otro, no la rescatará más;
+
+21 sino que cuando saliere en el jubileo, la tierra será santa para Jehová, como tierra consagrada; la posesión de ella será del sacerdote.
+
+22 Y si dedicare alguno a Jehová la tierra que él compró, que no era de la tierra de su herencia,
+
+23 entonces el sacerdote calculará con él la suma de tu estimación hasta el año del jubileo, y aquel día dará tu precio señalado, cosa consagrada a Jehová.
+
+24 En el año del jubileo, volverá la tierra a aquél de quien él la compró, cuya es la herencia de la tierra.
+
+25 Y todo lo que valorares será conforme al siclo del santuario; el siclo tiene veinte geras.
+
+26 Pero el primogénito de los animales, que por la primogenitura es de Jehová, nadie lo dedicará; sea buey u oveja, de Jehová es.
+
+27 Mas si fuere de los animales inmundos, lo rescatarán conforme a tu estimación, y añadirán sobre ella la quinta parte de su precio; y si no lo rescataren, se venderá conforme a tu estimación.
+
+28 Pero no se venderá ni se rescatará ninguna cosa consagrada, que alguno hubiere dedicado a Jehová; de todo lo que tuviere, de hombres y animales, y de las tierras de su posesión, todo lo consagrado será cosa santísima para Jehová.
+
+29 Ninguna persona separada como anatema podrá ser rescatada; indefectiblemente ha de ser muerta.
+
+30 Y el diezmo de la tierra, así de la simiente de la tierra como del fruto de los árboles, de Jehová es; es cosa dedicada a Jehová.
+
+31 Y si alguno quisiere rescatar algo del diezmo, añadirá la quinta parte de su precio por ello.
+
+32 Y todo diezmo de vacas o de ovejas, de todo lo que pasa bajo la vara, el diezmo será consagrado a Jehová.
+
+33 No mirará si es bueno o malo, ni lo cambiará; y si lo cambiare, tanto él como el que se dio en cambio serán cosas sagradas; no podrán ser rescatados.
+
+34 Estos son los mandamientos que ordenó Jehová a Moisés para los hijos de Israel, en el monte de Sinaí. `,
 ];
 
 let bookArrays = book.map((chapter) => {
   return chapter.match(/[^\d]+\w*\s+$/gm);
 });
 
-let chapter = 31,
+let chapter = 15,
   verse = 1;
 let chapterObj = {},
   verseObj = {};
