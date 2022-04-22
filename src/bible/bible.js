@@ -4,6 +4,15 @@ import levitico from "./levitico";
 import numeros from "./numeros.";
 import deutoronomio from "./deutoronomio";
 import josue from "./josue";
-const bible = { genesis, exodo, levitico, numeros, deutoronomio, josue };
+import jueces from "./jueces";
+const bible = {
+  genesis,
+  exodo,
+  levitico,
+  numeros,
+  deutoronomio,
+  josue,
+  jueces,
+};
 
 export default bible;
