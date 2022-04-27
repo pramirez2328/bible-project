@@ -6,6 +6,7 @@ import deutoronomio from "./deutoronomio";
 import josue from "./josue";
 import jueces from "./jueces";
 import rut from "./rut";
+import samuel1 from "./samuel1";
 const bible = {
   genesis,
   exodo,
@@ -15,6 +16,7 @@ const bible = {
   josue,
   jueces,
   rut,
+  samuel1,
 };
 
 export default bible;
