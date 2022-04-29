@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import bible from "./bible/bible";
+import bible from "./bible";
 
 function App() {
   const [book, setBook] = useState("");

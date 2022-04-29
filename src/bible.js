@@ -1,0 +1,25 @@
+import genesis from "./bible/genesis";
+import exodo from "./bible/exodo";
+import levitico from "./bible/levitico";
+import numeros from "./bible/numeros.";
+import deutoronomio from "./bible/deutoronomio";
+import josue from "./bible/josue";
+import jueces from "./bible/jueces";
+import rut from "./bible/rut";
+import samuel1 from "./bible/samuel1";
+import samuel2 from "./bible/samuel2";
+
+const bible = {
+  genesis,
+  exodo,
+  levitico,
+  numeros,
+  deutoronomio,
+  josue,
+  jueces,
+  rut,
+  samuel1,
+  samuel2,
+};
+
+export default bible;
