@@ -8,6 +8,7 @@ import jueces from "./bible/jueces";
 import rut from "./bible/rut";
 import samuel1 from "./bible/samuel1";
 import samuel2 from "./bible/samuel2";
+import reyes1 from "./bible/reyes1";
 
 const bible = {
   genesis,
@@ -20,6 +21,7 @@ const bible = {
   rut,
   samuel1,
   samuel2,
+  reyes1,
 };
 
 export default bible;
