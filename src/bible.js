@@ -10,6 +10,7 @@ import samuel1 from "./bible/samuel1";
 import samuel2 from "./bible/samuel2";
 import reyes1 from "./bible/reyes1";
 import reyes2 from "./bible/reyes2";
+import cronicas1 from "./bible/cronicas1";
 
 const bible = {
   genesis,
@@ -24,6 +25,7 @@ const bible = {
   samuel2,
   reyes1,
   reyes2,
+  cronicas1,
 };
 
 export default bible;
