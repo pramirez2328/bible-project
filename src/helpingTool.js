@@ -3,7 +3,7 @@ let bookArrays = book.map((chapter) => {
   return chapter.match(/[^\d]+\w*\s+$/gm);
 });
 
-let chapter = 24,
+let chapter = 1,
   verse = 1;
 let chapterObj = {},
   verseObj = {};
