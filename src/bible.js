@@ -17,6 +17,7 @@ import nehemias from "./bible/nehemias";
 import ester from "./bible/ester";
 import job from "./bible/job";
 import salmos from "./bible/salmos";
+import proverbios from "./bible/proverbios";
 
 const bible = {
   genesis,
@@ -38,6 +39,7 @@ const bible = {
   ester,
   job,
   salmos,
+  proverbios,
 };
 
 export default bible;
