@@ -20,6 +20,7 @@ import salmos from "./bible/salmos";
 import proverbios from "./bible/proverbios";
 import eclesiastes from "./bible/eclesiastes";
 import cantares from "./bible/cantares";
+import isaias from "./bible/isaias";
 
 const bible = {
   genesis,
@@ -44,6 +45,7 @@ const bible = {
   proverbios,
   eclesiastes,
   cantares,
+  isaias,
 };
 
 export default bible;
