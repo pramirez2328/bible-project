@@ -1,6 +1,7 @@
 import "./App.css";
 import React, { useState } from "react";
 import bible from "./bible";
+import BookList from "./BookList";
 
 function App() {
   const [book, setBook] = useState("");
@@ -19,13 +20,13 @@ function App() {
     let finalVerses = [],
       counter = Number(verses[0]);
     let lastCounter = verses.length > 1 ? Number(verses[1]) : counter;
-
+    const filterBook = book.toLowerCase();
     for (let i = counter; i <= lastCounter; i++) {
-      if (bible[book][chapter]) {
+      if (bible[filterBook][chapter]) {
         finalVerses.push({
           id: counter,
-          verse: bible[book][chapter][counter]
-            ? bible[book][chapter][counter]
+          verse: bible[filterBook][chapter][counter]
+            ? bible[filterBook][chapter][counter]
             : "no existe este versiculo!",
         });
         counter++;
@@ -37,8 +38,7 @@ function App() {
   return (
     <div className="App">
       <form onSubmit={handleFind}>
-        <label htmlFor="book">Book: </label>
-        <input id="book" type="text" value={book} onChange={handleBook} />
+        <BookList handleBook={handleBook} />
 
         <label htmlFor="chapter">Chapter: </label>
         <input
