@@ -37,6 +37,33 @@ import sofonias from "./bible/sofonias";
 import hageo from "./bible/hageo";
 import zacarias from "./bible/zacarias";
 import malaquias from "./bible/malaquias";
+import mateo from "./bible/mateo";
+import marcos from "./bible/marcos";
+import lucas from "./bible/lucas";
+import juan from "./bible/juan";
+import hechos from "./bible/hechos";
+import romanos from "./bible/romanos";
+import corintios1 from "./bible/corintios1";
+import corintios2 from "./bible/corintios2";
+import galatas from "./bible/galatas";
+import efesios from "./bible/efesios";
+import filipenses from "./bible/filepenses";
+import colosenses from "./bible/colosenses";
+import tesalonicences1 from "./bible/tesalonicenses1";
+import tesalonicences2 from "./bible/tesalonicenses2";
+import timoteo1 from "./bible/timoteo1";
+import timoteo2 from "./bible/timoteo2";
+import tito from "./bible/tito";
+import filemon from "./bible/filemon";
+import hebreos from "./bible/hebreos";
+import santiago from "./bible/santiago";
+import pedro1 from "./bible/pedro1";
+import pedro2 from "./bible/pedro2";
+import juan1 from "./bible/juan1";
+import juan2 from "./bible/juan2";
+import juan3 from "./bible/juan3";
+import judas from "./bible/judas";
+import apocalipsis from "./bible/apocalipsis";
 
 const bible = {
   genesis,
@@ -78,6 +105,33 @@ const bible = {
   hageo,
   zacarias,
   malaquias,
+  mateo,
+  marcos,
+  lucas,
+  juan,
+  hechos,
+  romanos,
+  corintios1,
+  corintios2,
+  galatas,
+  efesios,
+  filipenses,
+  colosenses,
+  tesalonicences1,
+  tesalonicences2,
+  timoteo1,
+  timoteo2,
+  tito,
+  filemon,
+  hebreos,
+  santiago,
+  pedro1,
+  pedro2,
+  juan1,
+  juan2,
+  juan3,
+  judas,
+  apocalipsis,
 };
 
 export default bible;
