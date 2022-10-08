@@ -25,6 +25,7 @@ import jeremias from "./bible/jeremias";
 import lamentaciones from "./bible/lamentaciones";
 import ezequiel from "./bible/ezequiel";
 import daniel from "./bible/daniel";
+import oseas from "./bible/oseas";
 
 const bible = {
   genesis,
@@ -54,6 +55,7 @@ const bible = {
   lamentaciones,
   ezequiel,
   daniel,
+  oseas,
 };
 
 export default bible;
