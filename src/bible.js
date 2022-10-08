@@ -47,7 +47,7 @@ import corintios1 from "./bible/corintios1";
 import corintios2 from "./bible/corintios2";
 import galatas from "./bible/galatas";
 import efesios from "./bible/efesios";
-import filipenses from "./bible/filepenses";
+import filipenses from "./bible/filipenses";
 import colosenses from "./bible/colosenses";
 import tesalonicences1 from "./bible/tesalonicenses1";
 import tesalonicences2 from "./bible/tesalonicenses2";
