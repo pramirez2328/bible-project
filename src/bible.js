@@ -28,6 +28,7 @@ import daniel from "./bible/daniel";
 import oseas from "./bible/oseas";
 import joel from "./bible/joel";
 import amos from "./bible/amos";
+import abdias from "./bible/abdias";
 
 const bible = {
   genesis,
@@ -60,6 +61,7 @@ const bible = {
   oseas,
   joel,
   amos,
+  abdias,
 };
 
 export default bible;
