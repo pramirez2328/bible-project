@@ -21,6 +21,8 @@ import proverbios from "./bible/proverbios";
 import eclesiastes from "./bible/eclesiastes";
 import cantares from "./bible/cantares";
 import isaias from "./bible/isaias";
+import jeremias from "./bible/jeremias";
+import lamentaciones from "./bible/lamentaciones";
 
 const bible = {
   genesis,
@@ -46,6 +48,8 @@ const bible = {
   eclesiastes,
   cantares,
   isaias,
+  jeremias,
+  lamentaciones,
 };
 
 export default bible;
