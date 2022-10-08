@@ -32,6 +32,8 @@ import abdias from "./bible/abdias";
 import jonas from "./bible/jonas";
 import miqueas from "./bible/miqueas";
 import nahum from "./bible/nahum";
+import habacuc from "./bible/habacuc";
+import sofonias from "./bible/sofonias";
 
 const bible = {
   genesis,
@@ -68,6 +70,8 @@ const bible = {
   jonas,
   miqueas,
   nahum,
+  habacuc,
+  sofonias,
 };
 
 export default bible;
