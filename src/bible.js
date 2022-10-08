@@ -36,6 +36,7 @@ import habacuc from "./bible/habacuc";
 import sofonias from "./bible/sofonias";
 import hageo from "./bible/hageo";
 import zacarias from "./bible/zacarias";
+import malaquias from "./bible/malaquias";
 
 const bible = {
   genesis,
@@ -76,6 +77,7 @@ const bible = {
   sofonias,
   hageo,
   zacarias,
+  malaquias,
 };
 
 export default bible;
