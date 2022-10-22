@@ -2,6 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 import bible from "./bible";
 import BookList from "./BookList";
+import ChapterList from "./ChapterList";
 
 function App() {
   const [book, setBook] = useState("");
@@ -39,14 +40,7 @@ function App() {
     <div className="App">
       <form onSubmit={handleFind}>
         <BookList handleBook={handleBook} />
-
-        <label htmlFor="chapter">Chapter: </label>
-        <input
-          id="chapter"
-          type="text"
-          value={chapter}
-          onChange={handleChapter}
-        />
+        <ChapterList handleChapter={handleChapter} book={book} />
 
         <label htmlFor="verse">Verse: </label>
         <input id="verse" type="text" value={verse} onChange={handleVerse} />
@@ -61,7 +55,7 @@ function App() {
           return <p className="verses" key={r.id}>{`${r.id}.- ${r.verse}`}</p>;
         })
       ) : (
-        <p>no existe ese capitulo</p>
+        <p></p>
       )}
     </div>
   );
