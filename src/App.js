@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import bible from "./bible";
 import BookList from "./BookList";
 import ChapterList from "./ChapterList";
+import VerseList from "./VerseList";
 
 function App() {
   const [book, setBook] = useState("");
@@ -36,15 +37,19 @@ function App() {
     setResult(finalVerses);
   };
 
+  const handleReset = () => {
+    setBook("");
+    setChapter("");
+    setVerse("");
+    setResult([]);
+  };
+
   return (
     <div className="App">
       <form onSubmit={handleFind}>
         <BookList handleBook={handleBook} />
         <ChapterList handleChapter={handleChapter} book={book} />
-
-        <label htmlFor="verse">Verse: </label>
-        <input id="verse" type="text" value={verse} onChange={handleVerse} />
-
+        <VerseList handleVerse={handleVerse} book={book} chapter={chapter} />
         <input type="submit" value="Submit" />
       </form>
       <h2 className="header">
@@ -57,6 +62,7 @@ function App() {
       ) : (
         <p></p>
       )}
+      <button onClick={handleReset}>reset</button>
     </div>
   );
 }
