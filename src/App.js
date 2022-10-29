@@ -37,19 +37,25 @@ function App() {
     setResult(finalVerses);
   };
 
-  const handleReset = () => {
-    setBook("");
-    setChapter("");
-    setVerse("");
-    setResult([]);
+  const handleReset = (e) => {
+    e.target.value = "";
   };
 
   return (
     <div className="App">
       <form onSubmit={handleFind}>
-        <BookList handleBook={handleBook} />
-        <ChapterList handleChapter={handleChapter} book={book} />
-        <VerseList handleVerse={handleVerse} book={book} chapter={chapter} />
+        <BookList handleBook={handleBook} handleReset={handleReset} />
+        <ChapterList
+          handleChapter={handleChapter}
+          book={book}
+          handleReset={handleReset}
+        />
+        <VerseList
+          handleVerse={handleVerse}
+          book={book}
+          chapter={chapter}
+          handleReset={handleReset}
+        />
         <input type="submit" value="Submit" />
       </form>
       <h2 className="header">
@@ -62,7 +68,6 @@ function App() {
       ) : (
         <p></p>
       )}
-      <button onClick={handleReset}>reset</button>
     </div>
   );
 }

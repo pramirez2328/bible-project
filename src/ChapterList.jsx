@@ -1,8 +1,9 @@
 import React from "react";
 import bible from "./bible";
 
-function ChapterList({ handleChapter, book }) {
+function ChapterList({ handleChapter, book, handleReset }) {
   let chapterList = [];
+
   if (book) {
     const filterBook = book.toLowerCase();
     const chapterQuantity = Object.keys(bible[filterBook]).length;
@@ -20,6 +21,7 @@ function ChapterList({ handleChapter, book }) {
         id="chapters"
         name="chapters"
         onChange={handleChapter}
+        onClick={handleReset}
       />
       <datalist id="listOfchapters">
         {chapterList.map((chapter) => {

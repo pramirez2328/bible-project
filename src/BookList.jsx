@@ -1,7 +1,7 @@
 import React from "react";
 import bibleListArray from "./util/bibleListArray";
 
-function BookList({ handleBook }) {
+function BookList({ handleBook, handleReset }) {
   const bookList = bibleListArray.map((book, i) => {
     return { id: i, book };
   });
@@ -13,6 +13,7 @@ function BookList({ handleBook }) {
         id="book"
         name="Bible books"
         onChange={handleBook}
+        onClick={handleReset}
       />
       <datalist id="Bible books">
         {bookList.map((book) => {

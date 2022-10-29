@@ -1,7 +1,7 @@
 import React from "react";
 import bible from "./bible";
 
-function VerseList({ handleVerse, book, chapter }) {
+function VerseList({ handleVerse, book, chapter, handleReset }) {
   let verseList = [];
   if (chapter) {
     const filterBook = book.toLowerCase();
@@ -20,6 +20,7 @@ function VerseList({ handleVerse, book, chapter }) {
         id="verses"
         name="verses"
         onChange={handleVerse}
+        onClick={handleReset}
       />
       <datalist id="listOfVerses">
         {verseList.map((verse) => {
