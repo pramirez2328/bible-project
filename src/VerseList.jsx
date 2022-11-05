@@ -1,11 +1,18 @@
 import React from "react";
 import bible from "./bible";
 
-function VerseList({ handleVerse, book, chapter, handleReset }) {
+function VerseList({
+  handleVerse,
+  bookTitle,
+  chapterTitle,
+  verseTitle,
+  handleReset,
+}) {
   let verseList = [];
-  if (chapter) {
-    const filterBook = book.toLowerCase();
-    const verseQuantity = Object.keys(bible[filterBook][chapter]).length;
+  const filterBook = bookTitle.toLowerCase();
+  if (chapterTitle && bible[filterBook][chapterTitle]) {
+    let verses = Object.keys(bible[filterBook][chapterTitle]) || [];
+    const verseQuantity = verses && verses.length;
     const arrOfVerses = [...Array(verseQuantity).keys()];
     verseList = arrOfVerses.map((verse, i) => {
       return { id: i, verse: (verse + 1).toString() };
@@ -21,6 +28,7 @@ function VerseList({ handleVerse, book, chapter, handleReset }) {
         name="verses"
         onChange={handleVerse}
         onClick={handleReset}
+        value={verseTitle}
       />
       <datalist id="listOfVerses">
         {verseList.map((verse) => {

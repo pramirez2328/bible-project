@@ -34,32 +34,55 @@ function App() {
         counter++;
       }
     }
-    setResult(finalVerses);
+
+    finalVerses.length
+      ? setResult(finalVerses)
+      : setResult([{ id: chapter, verse: `NO EXISTE ESTE CAPITULO!` }]);
   };
 
-  const handleReset = (e) => {
-    e.target.value = "";
+  const handleResetBook = () => {
+    setBook("");
+    setChapter("");
+    setVerse("");
+    setResult([]);
+  };
+
+  const handleResetChapter = () => {
+    setChapter("");
+    setVerse("");
+    setResult([]);
+  };
+
+  const handleResetVerse = () => {
+    setVerse("");
+    setResult([]);
   };
 
   return (
     <div className="App">
       <form onSubmit={handleFind}>
-        <BookList handleBook={handleBook} handleReset={handleReset} />
+        <BookList
+          handleBook={handleBook}
+          bookTitle={book}
+          handleReset={handleResetBook}
+        />
         <ChapterList
           handleChapter={handleChapter}
-          book={book}
-          handleReset={handleReset}
+          bookTitle={book}
+          chapterTitle={chapter}
+          handleReset={handleResetChapter}
         />
         <VerseList
           handleVerse={handleVerse}
-          book={book}
-          chapter={chapter}
-          handleReset={handleReset}
+          bookTitle={book}
+          chapterTitle={chapter}
+          verseTitle={verse}
+          handleReset={handleResetVerse}
         />
         <input type="submit" value="Submit" />
       </form>
       <h2 className="header">
-        {result.length ? `${book} ${chapter}: ${verse}` : ""}
+        {result.length ? `${book} ${chapter}: ${verse}` : null}
       </h2>
       {result.length ? (
         result.map((r) => {

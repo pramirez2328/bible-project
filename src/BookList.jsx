@@ -1,10 +1,11 @@
 import React from "react";
 import bibleListArray from "./util/bibleListArray";
 
-function BookList({ handleBook, handleReset }) {
+function BookList({ handleBook, bookTitle, handleReset }) {
   const bookList = bibleListArray.map((book, i) => {
     return { id: i, book };
   });
+
   return (
     <>
       <label htmlFor="book">Choose a book: </label>
@@ -14,6 +15,7 @@ function BookList({ handleBook, handleReset }) {
         name="Bible books"
         onChange={handleBook}
         onClick={handleReset}
+        value={bookTitle}
       />
       <datalist id="Bible books">
         {bookList.map((book) => {
